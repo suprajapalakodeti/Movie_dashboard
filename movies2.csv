@@ -1,0 +1,1432 @@
+Movie,Year,Certificate,Genre,Runtime,Rating,Reviews
+The Shawshank Redemption,2002,PG-13,Documentary,159,8.1,96748
+The Godfather,1951,R,Animation,167,8.2,1448598
+The Dark Knight,1992,R,Drama,170,8.1,629021
+Pulp Fiction,1914,NR,Documentary,172,5.4,958395
+The Lord of the Rings: The Return of the King,2006,PG,Comedy,156,4.6,915767
+Forrest Gump,1971,PG-13,Animation,152,6.5,301364
+Inception,1960,NR,Documentary,145,7.7,1327878
+Fight Club,1920,PG-13,Action,152,5.2,2964576
+The Matrix,2002,PG,Thriller,182,8.1,2252412
+Gladiator,2021,R,Thriller,170,8.4,2418126
+The Silence of the Lambs,1982,G,Action,166,7.6,2109571
+Schindler's List,1986,R,Comedy,154,6.5,381856
+Titanic,1974,NR,Comedy,173,7.7,1711909
+Saving Private Ryan,1974,G,Drama,170,5.2,763361
+Braveheart,1987,NR,Horror,157,7.1,2708089
+Black Swan,2016,PG,Fantasy,170,7.4,384793
+Django Unchained,1999,G,Comedy,164,7.9,2946086
+The Usual Suspects,2003,NR,Romance,163,6.8,1048025
+Whiplash,1923,PG,Drama,172,8.2,1661127
+The Prestige,1902,R,Adventure,116,7.6,59155
+The Green Mile,1921,PG,Sci-Fi,153,6.2,1573780
+Mad Max: Fury Road,1952,PG-13,Adventure,197,5.9,2942636
+The Departed,1901,PG,Drama,188,7.4,462326
+The Lion King,1987,PG,Documentary,158,7.5,2854135
+Back to the Future,2007,PG-13,Animation,149,5.6,2377086
+12 Angry Men,1929,NR,Fantasy,129,6.2,476377
+The Intouchables,1937,NR,Sci-Fi,163,8,398422
+The Grand Budapest Hotel,1901,PG,Adventure,160,6.2,121937
+The Shape of Water,1963,PG-13,Sci-Fi,179,6.8,1133629
+The Pursuit of Happyness,1959,PG-13,Romance,133,7.1,378355
+A Beautiful Mind,1920,R,Romance,142,7.7,1891369
+Jurassic Park,1932,NR,Documentary,177,8.5,1348416
+Avatar,1975,G,Romance,155,6.6,1675259
+Star Wars: Episode IV - A New Hope,1957,NR,Drama,168,7.6,1039474
+Harry Potter and the Sorcerer's Stone,1921,NR,Fantasy,160,3.3,1959129
+The Avengers,2007,R,Documentary,134,6.7,2414697
+The Social Network,1988,G,Drama,148,6.4,549391
+Coco,1948,R,Thriller,163,7.2,427479
+Inside Out,1990,G,Animation,170,8,1830641
+Zootopia,1958,PG,Animation,170,8.2,1518413
+Frozen,1941,G,Romance,170,7.2,1360764
+The Incredibles,1991,R,Thriller,170,7.5,1630594
+Guardians of the Galaxy,1959,NR,Comedy,168,7.3,1780192
+Spider-Man: Homecoming,1979,G,Comedy,179,6.1,2594545
+Deadpool,1914,G,Romance,162,6.7,1125832
+Interstellar,1961,PG-13,Adventure,169,5.9,2835142
+The Notebook,1961,NR,Drama,147,7.8,2853502
+Gladiator,1946,PG,Romance,155,4.4,1596436
+The Wizard of Oz,1961,R,Horror,161,6.8,562834
+The Breakfast Club,1950,PG,Sci-Fi,161,6.5,840597
+Finding Nemo,2007,NR,Animation,135,8.1,850122
+The Fault in Our Stars,1954,G,Comedy,165,5.6,446880
+The Great Gatsby,2015,G,Action,162,7.7,2572703
+Eternal Sunshine of the Spotless Mind,1963,NR,Comedy,130,7.2,730559
+Bridget Jones's Diary,2020,G,Animation,157,8.6,521727
+The Devil Wears Prada,1902,G,Sci-Fi,167,7.5,2134100
+La La Land,2000,G,Animation,163,7.2,1862015
+Get Out,1950,R,Action,162,7.3,1673683
+Her,1906,R,Romance,153,7.1,2450503
+The King's Speech,1920,PG-13,Thriller,147,7.4,1532713
+The Shape of Water,1972,PG,Action,102,7.1,2960356
+Moonlight,1938,NR,Animation,166,6.3,546312
+Spotlight,1917,NR,Animation,165,7.9,1816344
+The Revenant,1903,NR,Horror,161,7.3,2005464
+The Shawshank Redemption,1988,PG-13,Documentary,176,7.3,2876673
+The Godfather,1959,R,Horror,125,8.2,1282322
+The Dark Knight,1913,PG-13,Fantasy,155,7.4,411373
+Pulp Fiction,2013,NR,Horror,146,7.3,1543912
+The Lord of the Rings: The Return of the King,2021,PG,Drama,163,6.8,1705692
+Forrest Gump,1908,G,Thriller,126,5.8,1008507
+Inception,1989,R,Sci-Fi,159,7.5,626776
+Fight Club,1952,R,Action,155,6.3,2718181
+The Matrix,1901,PG-13,Animation,148,8.5,1761987
+Gladiator,1983,R,Fantasy,150,7,2328925
+The Silence of the Lambs,1991,NR,Fantasy,151,7.8,982099
+Schindler's List,2010,NR,Sci-Fi,165,5.9,1550642
+Titanic,1959,PG-13,Thriller,124,6.3,1791825
+Saving Private Ryan,1970,NR,Action,138,6.8,2494903
+Braveheart,1943,PG,Comedy,139,7.4,516031
+Black Swan,1907,PG-13,Horror,169,7.3,47367
+Django Unchained,1946,PG,Romance,153,7.9,1811408
+The Usual Suspects,1934,G,Fantasy,169,6.1,1501604
+Whiplash,1977,PG,Horror,160,7.2,1632748
+The Prestige,1980,G,Horror,110,8.3,668640
+The Green Mile,1935,G,Drama,158,8,2505114
+Mad Max: Fury Road,1949,PG,Thriller,164,6.4,364716
+The Departed,2003,PG-13,Romance,145,7.2,2674691
+The Lion King,1903,NR,Documentary,159,6.4,1133397
+Back to the Future,1901,NR,Comedy,155,7.8,1656447
+12 Angry Men,1905,G,Animation,167,8,244697
+The Intouchables,1953,G,Drama,166,5,1058783
+The Grand Budapest Hotel,2005,PG-13,Horror,169,7.9,726487
+The Shape of Water,1903,R,Horror,192,9.2,1076333
+The Pursuit of Happyness,1953,PG,Adventure,125,7.6,454623
+A Beautiful Mind,1992,G,Romance,155,7.2,2917406
+Jurassic Park,1962,NR,Romance,158,7.6,1310646
+Avatar,1917,PG-13,Adventure,152,9,41340
+Star Wars: Episode IV - A New Hope,1989,PG,Romance,145,6.9,2340107
+Harry Potter and the Sorcerer's Stone,1943,PG-13,Horror,180,7.8,969738
+The Avengers,1933,PG,Fantasy,140,7.7,892743
+The Social Network,1973,PG,Action,143,8.5,2014751
+Coco,1961,G,Horror,169,7.1,1648184
+Inside Out,1999,PG-13,Drama,156,6.5,1413285
+Zootopia,1913,PG-13,Thriller,184,8.7,2525525
+Frozen,1994,NR,Adventure,153,7.3,1330657
+The Incredibles,1947,NR,Comedy,166,6.4,964211
+Guardians of the Galaxy,1914,G,Animation,165,5.4,1321939
+Spider-Man: Homecoming,1971,G,Comedy,151,6,1057975
+Deadpool,1977,R,Horror,137,8.1,2748173
+Interstellar,1986,NR,Drama,150,8.3,2851360
+The Notebook,2023,PG,Horror,185,7.3,945161
+Gladiator,2020,PG-13,Thriller,162,6.9,806479
+The Wizard of Oz,1961,G,Fantasy,146,8.2,2328767
+The Breakfast Club,1939,PG-13,Documentary,150,7.8,2707133
+Finding Nemo,1984,PG-13,Animation,127,8.2,625219
+The Fault in Our Stars,1979,R,Thriller,144,7.5,2235004
+The Great Gatsby,2008,NR,Adventure,145,6.6,2694991
+Eternal Sunshine of the Spotless Mind,1981,G,Adventure,118,8.2,2427962
+Bridget Jones's Diary,2010,PG-13,Horror,167,5.5,1797555
+The Devil Wears Prada,1952,G,Drama,142,6,53010
+La La Land,1923,PG,Thriller,148,6,1611029
+Get Out,1925,R,Sci-Fi,152,5.6,1322248
+Her,1988,PG,Drama,137,7.8,907272
+The King's Speech,2023,G,Fantasy,161,8.1,180680
+The Shape of Water,1959,G,Adventure,142,8.3,2496282
+Moonlight,2023,NR,Documentary,144,7.1,1610000
+Spotlight,2008,PG-13,Horror,162,6.6,1396728
+The Revenant,1940,PG-13,Romance,156,4.3,536364
+The Shawshank Redemption,1928,PG,Adventure,120,8.3,1958919
+The Godfather,1914,R,Documentary,126,7.9,1728719
+The Dark Knight,1944,PG-13,Animation,153,5.5,903057
+Pulp Fiction,1964,NR,Action,150,7.8,1750652
+The Lord of the Rings: The Return of the King,1988,PG,Romance,165,7.7,1623162
+Forrest Gump,1970,PG,Horror,155,7.7,69835
+Inception,1908,NR,Sci-Fi,160,8.8,2619909
+Fight Club,1987,R,Romance,157,5.8,2733864
+The Matrix,1900,NR,Animation,148,5.7,663478
+Gladiator,2007,R,Drama,154,7.2,1302970
+The Silence of the Lambs,1907,NR,Sci-Fi,171,7.2,2416207
+Schindler's List,1987,NR,Adventure,131,7.3,990993
+Titanic,1962,G,Sci-Fi,158,4.5,2200240
+Saving Private Ryan,1910,PG,Thriller,148,7.7,1588049
+Braveheart,2014,NR,Animation,141,7,959296
+Black Swan,1980,NR,Documentary,141,8.5,1813948
+Django Unchained,1907,PG-13,Romance,151,7.3,1213575
+The Usual Suspects,1934,PG,Thriller,147,8.9,262530
+Whiplash,1934,PG-13,Sci-Fi,146,3.3,1514520
+The Prestige,1932,PG,Thriller,152,7,2042361
+The Green Mile,2022,PG-13,Comedy,136,7.7,217767
+Mad Max: Fury Road,1904,NR,Animation,153,8.3,1109970
+The Departed,2005,NR,Documentary,142,7.4,1688241
+The Lion King,2002,G,Fantasy,137,5.7,646004
+Back to the Future,2021,PG-13,Drama,170,7.4,187486
+12 Angry Men,1940,R,Sci-Fi,137,7,1628782
+The Intouchables,1927,G,Animation,159,7,1426360
+The Grand Budapest Hotel,1906,PG-13,Fantasy,135,6.4,1733391
+The Shape of Water,1972,PG-13,Fantasy,125,7.4,366590
+The Pursuit of Happyness,1971,G,Horror,143,4.3,94702
+A Beautiful Mind,1911,NR,Documentary,125,7.8,2202661
+Jurassic Park,1933,PG-13,Thriller,145,6.4,355752
+Avatar,1932,NR,Fantasy,128,7,1162886
+Star Wars: Episode IV - A New Hope,1947,G,Comedy,160,7.8,2929386
+Harry Potter and the Sorcerer's Stone,2018,NR,Animation,137,3.2,558910
+The Avengers,1922,PG,Action,147,6.7,2207087
+The Social Network,1961,R,Action,138,7,2357592
+Coco,1987,PG-13,Sci-Fi,150,6.7,958101
+Inside Out,1936,R,Adventure,140,8.4,696314
+Zootopia,1998,NR,Thriller,164,4.8,69519
+Frozen,1943,PG-13,Adventure,150,8.2,711475
+The Incredibles,2003,NR,Fantasy,137,7.6,960655
+Guardians of the Galaxy,1985,PG,Animation,173,7.4,1196688
+Spider-Man: Homecoming,1990,G,Sci-Fi,145,5.9,2141924
+Deadpool,1934,PG-13,Romance,145,5.5,2219583
+Interstellar,1964,PG,Fantasy,137,7.3,2979674
+The Notebook,1998,PG,Thriller,138,8,2292056
+Gladiator,2000,PG-13,Action,185,7.8,158988
+The Wizard of Oz,1946,NR,Documentary,175,7.8,2928455
+The Breakfast Club,1977,PG,Horror,155,7.6,2611895
+Finding Nemo,1902,R,Animation,150,6.4,1861380
+The Fault in Our Stars,1900,PG,Drama,167,7.4,2027787
+The Great Gatsby,1904,NR,Documentary,150,7.6,39080
+Eternal Sunshine of the Spotless Mind,1989,NR,Adventure,130,8.3,106242
+Bridget Jones's Diary,2018,R,Sci-Fi,146,5.7,829154
+The Devil Wears Prada,1913,PG,Adventure,143,5.6,2611232
+La La Land,2002,NR,Animation,131,6.5,1658069
+Get Out,1926,PG-13,Adventure,153,6.9,927281
+Her,1908,G,Animation,152,6.8,167403
+The King's Speech,1978,G,Adventure,177,7.1,256392
+The Shape of Water,1914,G,Documentary,148,6.2,20968
+Moonlight,1989,PG,Comedy,137,6.8,1584156
+Spotlight,1941,R,Documentary,148,7.5,2873382
+The Revenant,2023,NR,Romance,138,4.2,1390179
+The Shawshank Redemption,1976,PG-13,Fantasy,143,8.7,2933776
+The Godfather,1950,PG-13,Fantasy,128,7,1657057
+The Dark Knight,1962,PG,Thriller,160,5.6,2690605
+Pulp Fiction,1995,G,Documentary,180,7.8,854082
+The Lord of the Rings: The Return of the King,2002,PG,Documentary,0,6.7,1541773
+Forrest Gump,2012,R,Drama,179,5.1,746470
+Inception,1951,R,Drama,155,5.2,1932893
+Fight Club,1995,NR,Thriller,167,5.1,153329
+The Matrix,1903,NR,Horror,169,5.7,1149164
+Gladiator,1993,R,Fantasy,117,5.3,2874262
+The Silence of the Lambs,2000,R,Horror,160,6.1,1572762
+Schindler's List,1922,R,Animation,300,5.5,1918517
+Titanic,2002,PG,Animation,158,8.1,1795209
+Saving Private Ryan,2008,R,Action,132,4.6,2830095
+Braveheart,1914,PG-13,Adventure,170,8.5,1561128
+Black Swan,1942,G,Drama,168,6.3,1311414
+Django Unchained,1928,R,Action,150,8,15588
+The Usual Suspects,1935,G,Romance,140,4.3,2814268
+Whiplash,1912,PG,Thriller,150,6.4,457301
+The Prestige,1931,G,Thriller,161,7.4,2863871
+The Green Mile,1970,PG,Animation,137,5.7,2342608
+Mad Max: Fury Road,1958,PG-13,Documentary,140,7.1,530992
+The Departed,2014,PG,Fantasy,153,4.9,1088712
+The Lion King,1985,PG,Horror,169,5.1,47361
+Back to the Future,1927,NR,Drama,160,7.3,2942431
+12 Angry Men,1965,R,Action,0,6.5,2239665
+The Intouchables,1941,R,Horror,158,7.1,14677
+The Grand Budapest Hotel,1944,PG-13,Documentary,134,4.9,1656455
+The Shape of Water,1961,PG-13,Action,131,7.2,1958970
+The Pursuit of Happyness,1956,R,Adventure,120,4.6,1377984
+A Beautiful Mind,2016,NR,Romance,196,6.6,1646032
+Jurassic Park,1905,R,Romance,151,5.5,1715979
+Avatar,1927,NR,Horror,144,5.8,2169091
+Star Wars: Episode IV - A New Hope,1927,PG-13,Horror,122,7.9,1890252
+Harry Potter and the Sorcerer's Stone,2007,G,Horror,155,6.9,2508894
+The Avengers,1943,PG-13,Action,144,7.1,1844348
+The Social Network,1983,PG-13,Adventure,130,6.8,759848
+Coco,1929,PG,Comedy,134,7.8,2905978
+Inside Out,1961,PG,Horror,149,6.1,1409277
+Zootopia,1974,PG,Fantasy,131,6,1183750
+Frozen,2021,PG,Documentary,180,6.6,2592214
+The Incredibles,2018,NR,Drama,131,7.2,1592023
+Guardians of the Galaxy,1991,R,Drama,174,7.4,122366
+Spider-Man: Homecoming,1988,G,Documentary,149,5.6,2293316
+Deadpool,2002,PG-13,Action,190,5,792644
+Interstellar,1961,NR,Documentary,163,3.5,1539152
+The Notebook,1996,G,Horror,168,4.7,823837
+Gladiator,1900,NR,Animation,140,5.5,392776
+The Wizard of Oz,2020,NR,Thriller,145,8,1387781
+The Breakfast Club,1926,PG-13,Comedy,150,6.6,356440
+Finding Nemo,1961,R,Fantasy,113,7.4,841618
+The Fault in Our Stars,2020,PG,Documentary,148,6.1,961743
+The Great Gatsby,2015,R,Adventure,150,7.1,1796929
+Eternal Sunshine of the Spotless Mind,1976,PG-13,Animation,166,6.4,534820
+Bridget Jones's Diary,2004,PG-13,Documentary,154,4.6,2307278
+The Devil Wears Prada,1902,PG-13,Romance,130,6.1,989516
+La La Land,2002,G,Animation,149,6.5,1035340
+Get Out,1969,R,Action,121,5.7,103021
+Her,1971,R,Comedy,137,7.6,2886855
+The King's Speech,1926,NR,Sci-Fi,155,5.8,2011562
+The Shape of Water,1908,NR,Sci-Fi,140,8.1,209
+Moonlight,1961,NR,Horror,165,6.8,222071
+Spotlight,1936,PG-13,Horror,125,7.1,2903561
+The Revenant,1996,R,Action,155,7.1,1253790
+The Shawshank Redemption,1950,PG-13,Adventure,166,5.5,1158496
+The Godfather,2005,G,Horror,156,7.1,2458884
+The Dark Knight,1943,NR,Thriller,160,6,1379404
+Pulp Fiction,1923,PG-13,Comedy,156,6.4,1278720
+The Lord of the Rings: The Return of the King,1978,PG-13,Documentary,161,6.7,216194
+Forrest Gump,1958,G,Action,166,8.8,2454082
+Inception,2017,PG,Drama,128,7.7,2485702
+Fight Club,1931,R,Documentary,109,6.4,2280163
+The Matrix,1995,PG,Documentary,159,6.7,2771106
+Gladiator,1987,NR,Romance,145,6.4,7399
+The Silence of the Lambs,2004,PG-13,Action,125,6.1,1562818
+Schindler's List,1951,G,Action,155,5.2,942621
+Titanic,2012,G,Sci-Fi,82,6.5,2195814
+Saving Private Ryan,1961,R,Fantasy,168,5.9,662858
+Braveheart,2012,PG,Adventure,160,7.8,1937834
+Black Swan,1957,R,Fantasy,150,5.1,772592
+Django Unchained,1951,PG-13,Thriller,169,6,2470373
+The Usual Suspects,1911,R,Drama,151,5.4,1034023
+Whiplash,1938,G,Documentary,153,5.8,796060
+The Prestige,1901,G,Sci-Fi,159,7.1,393545
+The Green Mile,1902,NR,Drama,163,5.5,300763
+Mad Max: Fury Road,2012,NR,Documentary,137,7.4,1055608
+The Departed,2000,PG-13,Thriller,147,7.6,2724098
+The Lion King,2012,PG,Fantasy,129,7,907555
+Back to the Future,1955,R,Action,140,5.8,1564458
+12 Angry Men,1980,PG-13,Horror,165,7.2,1921166
+The Intouchables,1958,NR,Horror,158,5.7,1666984
+The Grand Budapest Hotel,2012,R,Animation,135,5.3,47850
+The Shape of Water,1901,NR,Romance,157,7.2,1577586
+The Pursuit of Happyness,1901,R,Adventure,145,5.3,279916
+A Beautiful Mind,1991,PG,Thriller,156,5.2,348249
+Jurassic Park,1953,PG-13,Romance,155,5.2,434895
+Avatar,1986,R,Adventure,130,5.1,986275
+Star Wars: Episode IV - A New Hope,2000,G,Documentary,129,7,4576
+Harry Potter and the Sorcerer's Stone,1995,G,Romance,170,6.4,1410124
+The Avengers,1996,R,Fantasy,120,7.3,2532000
+The Social Network,1900,R,Adventure,140,7.5,1614340
+Coco,1918,R,Fantasy,140,4.7,1472077
+Inside Out,1901,G,Action,135,7.8,810586
+Zootopia,1952,G,Sci-Fi,142,7.5,2111591
+Frozen,1943,R,Fantasy,164,4.2,1428931
+The Incredibles,1989,NR,Documentary,180,5.5,1599826
+Guardians of the Galaxy,1931,NR,Horror,173,6.3,2020014
+Spider-Man: Homecoming,1969,PG,Romance,130,6.6,2860597
+Deadpool,1931,PG-13,Documentary,145,6,1348483
+Interstellar,2018,NR,Animation,157,7.4,116189
+The Notebook,1967,G,Comedy,130,7.1,1158866
+Gladiator,1954,NR,Adventure,140,6,981598
+The Wizard of Oz,1974,PG,Thriller,165,7,805896
+The Breakfast Club,1955,PG,Animation,131,8.2,959540
+Finding Nemo,2022,PG-13,Horror,162,6.5,2221132
+The Fault in Our Stars,1916,NR,Fantasy,122,7.5,2324173
+The Great Gatsby,1937,G,Sci-Fi,128,5.6,2785782
+Eternal Sunshine of the Spotless Mind,1923,G,Documentary,129,8,741165
+Bridget Jones's Diary,1968,R,Action,154,6.9,31541
+The Devil Wears Prada,2015,G,Comedy,157,6.5,475759
+La La Land,1997,PG-13,Drama,180,5.4,2844510
+Get Out,1969,PG-13,Animation,131,6.5,129188
+Her,1985,G,Sci-Fi,155,6.7,208150
+The King's Speech,1910,G,Drama,150,4.9,2573338
+The Shape of Water,2011,R,Comedy,128,5.4,1858777
+Moonlight,1915,G,Thriller,150,7.9,2316225
+Spotlight,1996,R,Thriller,185,6.9,480620
+The Revenant,1972,R,Romance,0,4.9,544444
+The Shawshank Redemption,2023,G,Comedy,140,6.3,741196
+The Godfather,1958,PG,Comedy,160,6.3,1492273
+The Dark Knight,1969,PG,Drama,132,6.9,668795
+Pulp Fiction,1979,R,Sci-Fi,142,6,725010
+The Lord of the Rings: The Return of the King,1992,G,Documentary,154,5,2798848
+Forrest Gump,1902,PG,Adventure,149,6.5,2002215
+Inception,1919,G,Drama,161,3.5,1122207
+Fight Club,2023,G,Action,124,7.2,824341
+The Matrix,1958,G,Thriller,142,7.7,2690927
+Gladiator,1935,NR,Thriller,156,7.3,2582977
+The Silence of the Lambs,1918,G,Romance,145,6.6,309799
+Schindler's List,1989,NR,Documentary,180,8,427557
+Titanic,1966,R,Action,85,7.2,1815599
+Saving Private Ryan,1918,PG,Thriller,139,5.7,2816694
+Braveheart,1919,PG,Drama,127,4.4,2165456
+Black Swan,1995,PG,Action,172,6.7,365750
+Django Unchained,1970,PG,Drama,150,3.5,1693802
+The Usual Suspects,1951,PG,Adventure,122,8.2,484103
+Whiplash,2004,PG,Adventure,159,7.3,2152259
+The Prestige,1932,PG,Thriller,120,7.1,2619210
+The Green Mile,1939,R,Thriller,153,4.3,1705096
+Mad Max: Fury Road,1938,G,Sci-Fi,125,6.5,2447193
+The Departed,1981,PG-13,Adventure,156,5.6,2836815
+The Lion King,2003,NR,Documentary,150,7.1,2501214
+Back to the Future,1900,PG-13,Documentary,165,4.7,260933
+12 Angry Men,1910,PG-13,Animation,154,5.5,1677044
+The Intouchables,1991,G,Animation,166,4.9,2379220
+The Grand Budapest Hotel,1956,G,Romance,161,7.5,2766394
+The Shape of Water,1988,G,Adventure,139,5.9,1784210
+The Pursuit of Happyness,1949,PG,Drama,146,6.1,1004059
+A Beautiful Mind,1922,R,Drama,176,5.7,2463501
+Jurassic Park,1930,PG,Horror,125,5.7,1744919
+Avatar,1993,R,Action,135,5.8,1028719
+Star Wars: Episode IV - A New Hope,1941,R,Fantasy,157,6.5,1586987
+Harry Potter and the Sorcerer's Stone,1998,PG-13,Animation,140,6.3,2819127
+The Avengers,1906,PG-13,Thriller,150,6.6,2585561
+The Social Network,2023,R,Romance,142,6.6,831710
+Coco,1915,R,Documentary,135,2.4,1932919
+Inside Out,1989,PG,Fantasy,146,6.1,2056370
+Zootopia,2011,PG,Comedy,180,7,2149151
+Frozen,2020,PG-13,Romance,145,6.4,1866161
+The Incredibles,2015,G,Comedy,167,5.6,1803713
+Guardians of the Galaxy,1959,R,Adventure,141,6.4,1610520
+Spider-Man: Homecoming,2012,PG,Comedy,125,5.3,2298739
+Deadpool,1901,PG-13,Comedy,153,7.3,1833451
+Interstellar,1900,PG,Sci-Fi,107,8.5,263356
+The Notebook,1947,R,Sci-Fi,152,5.2,2237225
+Gladiator,1911,R,Sci-Fi,158,6.4,1127360
+The Wizard of Oz,1968,NR,Adventure,140,6.4,2982307
+The Breakfast Club,1936,G,Fantasy,97,5.9,343288
+Finding Nemo,1931,NR,Romance,150,5.5,2002507
+The Fault in Our Stars,2022,PG-13,Romance,160,7.3,2652808
+The Great Gatsby,2018,PG,Thriller,150,5.2,1109736
+Eternal Sunshine of the Spotless Mind,1908,PG-13,Sci-Fi,175,4.8,2778366
+Bridget Jones's Diary,2004,R,Adventure,143,6.8,2370011
+The Devil Wears Prada,1998,NR,Thriller,130,7.1,583072
+La La Land,1918,NR,Action,153,8,2488489
+Get Out,1947,NR,Thriller,164,7.7,1410364
+Her,1979,PG-13,Fantasy,181,8.5,1358293
+The King's Speech,1902,R,Animation,130,6.6,1911128
+The Shape of Water,1919,PG,Comedy,150,6.1,562193
+Moonlight,1923,PG,Sci-Fi,149,5.5,939077
+Spotlight,1953,PG-13,Animation,170,5.1,653939
+The Revenant,2019,NR,Documentary,125,6.5,2425358
+The Shawshank Redemption,1932,G,Thriller,121,6,99596
+The Godfather,1923,PG-13,Adventure,124,6.9,2978602
+The Dark Knight,2015,PG-13,Comedy,126,7.3,1851579
+Pulp Fiction,1974,R,Romance,129,7.8,2063356
+The Lord of the Rings: The Return of the King,2012,PG,Drama,145,5.9,1046072
+Forrest Gump,1971,PG-13,Comedy,147,5.8,674502
+Inception,1935,PG-13,Fantasy,157,4.8,2908688
+Fight Club,1937,NR,Documentary,127,6.7,2105777
+The Matrix,2003,NR,Fantasy,141,7.2,1349919
+Gladiator,1983,G,Thriller,138,6.4,409142
+The Silence of the Lambs,1998,R,Action,140,6,2390514
+Schindler's List,2011,G,Fantasy,118,5.6,1748408
+Titanic,1988,NR,Fantasy,154,7.3,2451212
+Saving Private Ryan,1998,PG,Adventure,135,6,1171758
+Braveheart,1924,NR,Thriller,178,4.7,1081781
+Black Swan,1992,R,Comedy,139,5.3,2126869
+Django Unchained,1917,NR,Action,164,6,2990876
+The Usual Suspects,2009,R,Animation,152,6.4,942639
+Whiplash,1981,R,Drama,136,6.9,991993
+The Prestige,1965,R,Sci-Fi,151,7.3,1349282
+The Green Mile,1953,R,Romance,142,6.4,1510902
+Mad Max: Fury Road,1934,R,Fantasy,145,6.1,2117321
+The Departed,1979,PG,Thriller,103,5.7,977362
+The Lion King,1960,G,Sci-Fi,166,6.7,2905188
+Back to the Future,1940,PG-13,Romance,168,7.4,2448966
+12 Angry Men,1999,G,Romance,150,6.4,2473901
+The Intouchables,1932,R,Animation,160,8.3,2749580
+The Grand Budapest Hotel,1967,PG,Animation,167,6.4,102537
+The Shape of Water,1932,NR,Animation,165,5.7,1819201
+The Pursuit of Happyness,1913,PG,Horror,148,5.8,2732741
+A Beautiful Mind,1920,R,Horror,145,4.8,2367303
+Jurassic Park,1947,PG,Romance,154,6.1,901347
+Avatar,1919,PG,Animation,136,7.7,1280280
+Star Wars: Episode IV - A New Hope,2019,R,Adventure,131,8.5,1352507
+Harry Potter and the Sorcerer's Stone,1907,PG,Fantasy,158,6.1,2933166
+The Avengers,1906,PG-13,Sci-Fi,127,6.2,1778727
+The Social Network,1966,PG-13,Sci-Fi,130,6.2,2850310
+Coco,1916,PG,Horror,117,5.3,792214
+Inside Out,1932,NR,Romance,120,6.8,591058
+Zootopia,1947,R,Thriller,160,5.8,1676373
+Frozen,1975,PG-13,Comedy,146,7.6,1279372
+The Incredibles,1958,NR,Comedy,147,5.1,815636
+Guardians of the Galaxy,2014,PG,Horror,141,6.6,1590016
+Spider-Man: Homecoming,1985,NR,Thriller,149,5.1,1572730
+Deadpool,2018,G,Horror,159,5.2,448402
+Interstellar,1921,PG-13,Comedy,0,9.5,2449851
+The Notebook,2009,PG,Thriller,161,3.7,2313248
+Gladiator,1929,R,Animation,150,7,758019
+The Wizard of Oz,1937,PG,Romance,135,5.8,281833
+The Breakfast Club,2001,R,Sci-Fi,147,7.8,1535834
+Finding Nemo,2008,PG,Adventure,145,5.1,2442547
+The Fault in Our Stars,1950,NR,Action,0,5.7,1236968
+The Great Gatsby,1953,NR,Romance,146,6.5,1760027
+Eternal Sunshine of the Spotless Mind,1907,NR,Animation,192,8.5,1417285
+Bridget Jones's Diary,1926,G,Documentary,155,6.4,1521093
+The Devil Wears Prada,1926,R,Comedy,155,7.8,1988022
+La La Land,1997,NR,Animation,130,7,1087288
+Get Out,1920,G,Documentary,151,6.4,781675
+Her,1929,R,Horror,120,6.6,236502
+The King's Speech,1996,PG,Thriller,142,5.3,22551
+The Shape of Water,1927,G,Sci-Fi,155,4.2,93608
+Moonlight,2010,PG-13,Fantasy,139,7.1,2657001
+Spotlight,1963,G,Horror,126,6.8,286539
+The Revenant,1996,G,Romance,145,5.6,1591620
+The Shawshank Redemption,1968,R,Horror,133,6.4,2344804
+The Godfather,2023,PG,Romance,140,4.9,2053790
+The Dark Knight,1960,PG-13,Fantasy,151,7,2348379
+Pulp Fiction,1947,NR,Drama,130,6.9,328477
+The Lord of the Rings: The Return of the King,1918,NR,Documentary,147,4.8,2564113
+Forrest Gump,1903,G,Sci-Fi,116,7.9,499755
+Inception,1934,R,Adventure,138,5.1,2801818
+Fight Club,1963,R,Adventure,163,6.8,1725282
+The Matrix,1948,NR,Documentary,159,5,1863032
+Gladiator,1916,PG-13,Action,157,5.3,750310
+The Silence of the Lambs,1943,PG,Animation,151,5.1,2224344
+Schindler's List,1991,PG-13,Drama,147,6.3,1830455
+Titanic,1929,PG,Documentary,0,6,880670
+Saving Private Ryan,1992,NR,Adventure,125,5.4,1378148
+Braveheart,1945,PG,Horror,153,6.7,2422651
+Black Swan,2016,R,Animation,140,6.2,1500033
+Django Unchained,1905,G,Drama,152,6.9,462176
+The Usual Suspects,1998,G,Thriller,135,6.7,2879932
+Whiplash,2023,NR,Thriller,125,7.8,238826
+The Prestige,2004,R,Animation,130,3.7,1717354
+The Green Mile,1936,PG-13,Documentary,233,8.8,750782
+Mad Max: Fury Road,1923,R,Romance,157,5.3,481809
+The Departed,1992,G,Romance,124,3.6,1234832
+The Lion King,2012,G,Horror,145,6.3,1818182
+Back to the Future,1945,R,Drama,155,6.2,172905
+12 Angry Men,1952,R,Drama,151,5.5,393781
+The Intouchables,1994,G,Animation,165,7.2,2006260
+The Grand Budapest Hotel,1998,PG-13,Comedy,120,4.5,1066978
+The Shape of Water,1959,NR,Thriller,146,6.2,1222493
+The Pursuit of Happyness,1996,NR,Drama,240,6.6,2689290
+A Beautiful Mind,2015,R,Animation,160,6.8,37180
+Jurassic Park,1962,NR,Fantasy,150,7.1,1445675
+Avatar,1984,G,Action,162,7.3,633976
+Star Wars: Episode IV - A New Hope,1931,G,Fantasy,159,4.7,1417240
+Harry Potter and the Sorcerer's Stone,1986,R,Sci-Fi,153,7.5,1175711
+The Avengers,1932,R,Documentary,162,4.9,2251347
+The Social Network,1966,R,Horror,153,8.1,1631345
+Coco,1917,PG-13,Drama,153,7.2,597726
+Inside Out,1924,NR,Sci-Fi,150,6,635779
+Zootopia,2005,R,Adventure,85,2.5,2619893
+Frozen,1994,PG,Sci-Fi,151,7.1,2507941
+The Incredibles,1953,PG,Animation,138,5.9,357054
+Guardians of the Galaxy,1957,G,Drama,139,7.2,2502656
+Spider-Man: Homecoming,1966,NR,Action,175,7.5,1881986
+Deadpool,2003,R,Documentary,160,6.8,989924
+Interstellar,1945,PG,Animation,119,7.3,2477141
+The Notebook,1923,NR,Animation,155,4.8,1965629
+Gladiator,2013,G,Horror,138,4.4,2828607
+The Wizard of Oz,1931,PG-13,Horror,130,6.9,1103248
+The Breakfast Club,1946,NR,Thriller,134,8.1,1634685
+Finding Nemo,1985,NR,Thriller,148,5.8,69224
+The Fault in Our Stars,1922,PG-13,Romance,147,3.7,1029922
+The Great Gatsby,1965,NR,Comedy,169,5.6,234745
+Eternal Sunshine of the Spotless Mind,1926,G,Drama,174,5.8,2151948
+Bridget Jones's Diary,2005,G,Drama,132,7.3,2363319
+The Devil Wears Prada,1901,PG-13,Sci-Fi,133,5.1,1818222
+La La Land,1989,R,Drama,142,6.1,2835148
+Get Out,1916,PG,Drama,138,8.1,1216383
+Her,2003,R,Comedy,150,2.1,563506
+The King's Speech,1932,NR,Adventure,110,3.1,929717
+The Shape of Water,1908,PG,Thriller,147,5.4,515729
+Moonlight,1942,PG-13,Thriller,162,7.8,1278342
+Spotlight,2017,PG-13,Action,121,7.8,2912044
+The Revenant,1947,PG,Drama,161,7,851112
+The Shawshank Redemption,1938,G,Comedy,159,6.5,2083805
+The Godfather,1992,PG,Documentary,150,5.5,1079593
+The Dark Knight,1941,NR,Thriller,155,4.5,354182
+Pulp Fiction,2018,G,Comedy,152,6.2,948494
+The Lord of the Rings: The Return of the King,1925,PG-13,Fantasy,123,6.7,2640955
+Forrest Gump,1998,PG,Adventure,111,7.1,2498002
+Inception,1949,R,Drama,133,7.6,2305258
+Fight Club,1924,R,Action,0,4.6,2042532
+The Matrix,1923,NR,Sci-Fi,160,5.9,946881
+Gladiator,1912,R,Thriller,0,2.9,2916585
+The Silence of the Lambs,1959,PG,Fantasy,164,8.3,1574255
+Schindler's List,2021,PG,Documentary,142,7.4,2817718
+Titanic,1906,R,Comedy,140,7.3,1352935
+Saving Private Ryan,1956,PG,Horror,164,6.3,2701160
+Braveheart,1935,NR,Animation,140,5.6,289258
+Black Swan,1944,G,Drama,132,6.5,1715818
+Django Unchained,1919,NR,Drama,113,5.3,899574
+The Usual Suspects,1964,NR,Fantasy,140,6.9,2769785
+Whiplash,1907,PG,Comedy,136,4.4,1768828
+The Prestige,2009,G,Romance,143,8,2664119
+The Green Mile,1915,PG,Drama,147,5.5,1311147
+Mad Max: Fury Road,1913,PG-13,Romance,140,5,2687707
+The Departed,1975,PG,Documentary,122,5.7,2097951
+The Lion King,2014,PG,Horror,136,7.2,1366379
+Back to the Future,1986,PG,Fantasy,158,6.8,1536201
+12 Angry Men,1914,G,Comedy,108,7,1579889
+The Intouchables,1991,PG,Comedy,148,7.3,538769
+The Grand Budapest Hotel,1997,G,Documentary,151,7,287555
+The Shape of Water,1965,R,Documentary,152,7.8,1800830
+The Pursuit of Happyness,1931,PG-13,Adventure,156,7.3,2744454
+A Beautiful Mind,1986,G,Animation,162,5.4,408177
+Jurassic Park,1962,R,Thriller,0,5.8,1463559
+Avatar,1985,G,Thriller,157,6.5,514111
+Star Wars: Episode IV - A New Hope,1950,G,Sci-Fi,161,4.7,577158
+Harry Potter and the Sorcerer's Stone,1924,PG-13,Action,140,7,2788647
+The Avengers,1957,NR,Fantasy,160,2,2030594
+The Social Network,1962,NR,Horror,148,7.1,2184080
+Coco,1961,G,Comedy,180,3.5,1570497
+Inside Out,1921,PG,Animation,144,5.7,734158
+Zootopia,1957,R,Romance,140,7.3,2692205
+Frozen,1957,PG,Fantasy,156,3.8,1965425
+The Incredibles,1985,PG,Sci-Fi,123,5.7,805231
+Guardians of the Galaxy,1948,G,Fantasy,149,7.3,1422771
+Spider-Man: Homecoming,1951,G,Sci-Fi,152,5.4,2751381
+Deadpool,1941,G,Comedy,187,8,1446053
+Interstellar,1969,G,Action,157,6.6,2479129
+The Notebook,1914,NR,Sci-Fi,137,4.6,855434
+Gladiator,1953,G,Comedy,105,7.9,308697
+The Wizard of Oz,2006,NR,Comedy,151,4.3,525403
+The Breakfast Club,1959,NR,Action,141,6,723486
+Finding Nemo,2000,G,Thriller,157,7.4,72908
+The Fault in Our Stars,1996,PG-13,Fantasy,125,4.4,1641973
+The Great Gatsby,1907,R,Drama,154,7.1,1837986
+Eternal Sunshine of the Spotless Mind,1952,PG,Drama,149,6.9,371087
+Bridget Jones's Diary,1959,NR,Romance,158,7.4,9422
+The Devil Wears Prada,2007,R,Documentary,0,3.4,2271850
+La La Land,2007,PG-13,Romance,130,6.9,2710673
+Get Out,1904,PG,Documentary,0,5.4,842606
+Her,2002,PG,Drama,117,6.3,1538148
+The King's Speech,1967,NR,Horror,139,5.1,450415
+The Shape of Water,1905,G,Drama,138,4.7,1441008
+Moonlight,2008,PG-13,Romance,148,7.1,2750440
+Spotlight,1995,NR,Animation,138,5.9,28834
+The Revenant,2015,PG-13,Romance,142,5.7,548723
+The Shawshank Redemption,1993,G,Horror,141,5.1,1628661
+The Godfather,1946,G,Fantasy,165,5.7,2533922
+The Dark Knight,1998,NR,Documentary,143,6,578843
+Pulp Fiction,1954,G,Drama,137,4.7,85350
+The Lord of the Rings: The Return of the King,1939,R,Action,120,4.6,14716
+Forrest Gump,1951,PG,Animation,115,4.4,1108837
+Inception,1915,NR,Comedy,0,5.3,945032
+Fight Club,1912,PG-13,Horror,150,5.1,2885579
+The Matrix,2013,R,Romance,122,6.7,1717780
+Gladiator,2023,NR,Documentary,167,6.2,692019
+The Silence of the Lambs,2005,G,Action,155,4.6,1440352
+Schindler's List,1929,G,Sci-Fi,171,6.5,1909042
+Titanic,1918,G,Thriller,157,5.6,1877330
+Saving Private Ryan,1916,G,Drama,160,6,2426934
+Braveheart,2019,PG-13,Thriller,143,6.3,887766
+Black Swan,1962,R,Horror,0,6.8,1712460
+Django Unchained,1918,PG,Sci-Fi,130,8.1,555134
+The Usual Suspects,1991,PG-13,Sci-Fi,161,6.3,860075
+Whiplash,1957,PG-13,Sci-Fi,141,5.5,2013783
+The Prestige,1954,PG,Comedy,155,5.3,1335119
+The Green Mile,1989,PG,Horror,114,5.7,730520
+Mad Max: Fury Road,2000,G,Fantasy,136,6.1,2320886
+The Departed,1989,PG-13,Thriller,150,7.4,1048278
+The Lion King,2016,NR,Fantasy,90,3.6,2841179
+Back to the Future,1961,PG,Action,152,3.6,123182
+12 Angry Men,1922,PG,Adventure,137,7.1,48591
+The Intouchables,1908,R,Animation,0,7,1023671
+The Grand Budapest Hotel,1911,NR,Animation,134,4.7,84106
+The Shape of Water,2016,NR,Fantasy,123,6.4,1650882
+The Pursuit of Happyness,1900,PG,Adventure,133,5.5,2459150
+A Beautiful Mind,1957,G,Adventure,134,6.6,2025216
+Jurassic Park,2021,R,Drama,139,7.1,164486
+Avatar,1900,NR,Action,139,7.3,1693696
+Star Wars: Episode IV - A New Hope,2010,PG,Horror,145,3.6,2708016
+Harry Potter and the Sorcerer's Stone,1933,NR,Adventure,117,5.2,2831455
+The Avengers,1995,R,Romance,141,5.7,1827528
+The Social Network,2017,R,Animation,152,6.7,2064921
+Coco,1947,PG-13,Romance,162,4.4,735062
+Inside Out,1988,PG,Action,137,7.6,727468
+Zootopia,2003,R,Adventure,160,6.2,2064618
+Frozen,2008,PG-13,Thriller,173,7.6,92508
+The Incredibles,2016,PG-13,Animation,142,6,2815845
+Guardians of the Galaxy,1900,NR,Drama,171,2.7,1615328
+Spider-Man: Homecoming,1915,NR,Documentary,122,3.4,2996038
+Deadpool,1960,PG-13,Drama,138,6.1,678283
+Interstellar,2002,NR,Sci-Fi,153,3.5,1164638
+The Notebook,1963,R,Documentary,187,7.5,1902453
+Gladiator,1962,G,Comedy,136,6.6,2089875
+The Wizard of Oz,1968,R,Adventure,63,8.3,2469750
+The Breakfast Club,1921,PG-13,Action,146,6.9,2719824
+Finding Nemo,1992,PG-13,Animation,160,4,2798658
+The Fault in Our Stars,2018,R,Comedy,166,4.9,1424241
+The Great Gatsby,1966,NR,Action,160,3.8,902810
+Eternal Sunshine of the Spotless Mind,1975,NR,Fantasy,150,5.4,2638580
+Bridget Jones's Diary,1925,PG-13,Adventure,168,5.4,264814
+The Devil Wears Prada,1915,PG,Horror,150,4.2,1347239
+La La Land,1950,NR,Horror,143,3.3,975315
+Get Out,2000,R,Adventure,122,6.4,2200717
+Her,1985,NR,Documentary,145,6.8,2767203
+The King's Speech,1956,R,Sci-Fi,159,3.8,2988740
+The Shape of Water,1928,PG-13,Sci-Fi,140,7.7,185964
+Moonlight,1977,NR,Documentary,147,5.5,1236855
+Spotlight,1991,R,Horror,140,6,1046094
+The Revenant,1968,PG-13,Thriller,106,7,1288220
+The Shawshank Redemption,1946,PG,Documentary,123,5.9,754108
+The Godfather,2012,R,Animation,150,6.4,732878
+The Dark Knight,1993,PG,Horror,160,7.1,2030871
+Pulp Fiction,2009,PG,Thriller,120,6.2,1001622
+The Lord of the Rings: The Return of the King,1961,G,Comedy,156,5.6,1636617
+Forrest Gump,2015,NR,Thriller,0,3.9,1552053
+Inception,1968,R,Comedy,127,6.9,2363304
+Fight Club,1975,PG,Action,130,6.8,2466704
+The Matrix,1915,G,Romance,144,6.6,2359792
+Gladiator,1989,PG-13,Action,110,6.9,361911
+The Silence of the Lambs,1989,R,Horror,152,6.4,1046251
+Schindler's List,1947,PG,Comedy,143,4.8,285356
+Titanic,1984,NR,Horror,150,4,2928811
+Saving Private Ryan,1938,G,Documentary,155,5.7,1524205
+Braveheart,1999,PG,Adventure,134,5.2,1168694
+Black Swan,1932,NR,Animation,142,5.1,1787282
+Django Unchained,1993,PG,Drama,122,5.4,2369180
+The Usual Suspects,2000,R,Horror,155,4.6,116481
+Whiplash,1922,R,Animation,113,7.5,68259
+The Prestige,2021,R,Documentary,132,5.8,2146962
+The Green Mile,1909,G,Thriller,127,6.1,2039246
+Mad Max: Fury Road,2017,R,Documentary,0,4.3,2113527
+The Departed,1968,NR,Action,175,5,2335269
+The Lion King,1999,PG,Thriller,141,6.7,942722
+Back to the Future,1933,PG-13,Drama,144,7.7,1210213
+12 Angry Men,1951,NR,Comedy,157,6.6,2199806
+The Intouchables,1994,NR,Adventure,151,6.9,2916559
+The Grand Budapest Hotel,1909,R,Animation,128,6.9,1731009
+The Shape of Water,2021,G,Adventure,163,7.1,200798
+The Pursuit of Happyness,1918,PG,Romance,0,4.4,2230107
+A Beautiful Mind,1957,G,Documentary,160,6,2171641
+Jurassic Park,1995,PG,Horror,0,4.8,2629821
+Avatar,1900,PG,Comedy,151,4.2,2242019
+Star Wars: Episode IV - A New Hope,2019,G,Romance,119,7.1,2062044
+Harry Potter and the Sorcerer's Stone,1968,NR,Documentary,151,4.9,2160151
+The Avengers,2008,PG,Fantasy,180,4,312051
+The Social Network,1903,G,Horror,143,6.1,1975718
+Coco,1915,PG,Thriller,0,6.4,2954051
+Inside Out,1923,PG-13,Action,110,7,1877631
+Zootopia,1979,NR,Animation,137,3,2791004
+Frozen,2018,R,Drama,160,5.1,2516779
+The Incredibles,1901,PG,Drama,146,5.4,2994308
+Guardians of the Galaxy,2012,PG-13,Thriller,158,7.2,2068444
+Spider-Man: Homecoming,1991,R,Sci-Fi,160,6.2,2462365
+Deadpool,1931,R,Drama,155,7.8,2641436
+Interstellar,1990,PG,Animation,0,5.2,1776025
+The Notebook,1983,G,Thriller,154,6.4,1154258
+Gladiator,1923,PG,Comedy,146,5.2,2442905
+The Wizard of Oz,1911,PG-13,Drama,145,7.3,2606372
+The Breakfast Club,1949,R,Adventure,142,5.6,990170
+Finding Nemo,1934,PG,Thriller,133,7.3,1733341
+The Fault in Our Stars,2023,G,Animation,140,5.7,1412210
+The Great Gatsby,1932,PG,Adventure,161,5.4,1830836
+Eternal Sunshine of the Spotless Mind,1932,NR,Horror,135,6.3,2168477
+Bridget Jones's Diary,1960,G,Horror,142,7.8,1601794
+The Devil Wears Prada,1950,PG-13,Drama,152,6.9,2473722
+La La Land,1942,R,Adventure,133,7,2674986
+Get Out,2000,PG,Action,153,5.6,1842556
+Her,1911,G,Documentary,143,6.9,1950256
+The King's Speech,1966,NR,Horror,126,6.8,2803528
+The Shape of Water,1964,G,Action,156,5.2,2719220
+Moonlight,1932,NR,Comedy,0,6,1116521
+Spotlight,1939,PG-13,Thriller,152,5.7,59980
+The Revenant,1973,R,Documentary,169,6.5,843214
+The Shawshank Redemption,1942,PG-13,Romance,159,7.2,165301
+The Godfather,1943,PG,Animation,0,3.6,620670
+The Dark Knight,1928,G,Thriller,164,6.1,1102020
+Pulp Fiction,1912,NR,Documentary,0,4,297180
+The Lord of the Rings: The Return of the King,1911,NR,Animation,140,4.1,682527
+Forrest Gump,1994,G,Documentary,145,4.2,838099
+Inception,1945,G,Adventure,130,3.9,1667391
+Fight Club,1901,PG,Comedy,144,5.7,446300
+The Matrix,2014,PG-13,Fantasy,95,7.3,587426
+Gladiator,2013,NR,Drama,118,7.3,849333
+The Silence of the Lambs,1934,PG,Documentary,147,4.4,2508039
+Schindler's List,1986,PG-13,Animation,145,5.8,1131614
+Titanic,1980,PG,Animation,180,7,2056744
+Saving Private Ryan,1989,NR,Adventure,0,6.9,1473437
+Braveheart,1907,G,Action,153,4.7,918164
+Black Swan,1992,G,Thriller,0,5.4,2466507
+Django Unchained,1925,PG-13,Fantasy,125,6.5,793354
+The Usual Suspects,1973,R,Sci-Fi,120,7.7,1666561
+Whiplash,1989,PG-13,Drama,144,7.6,1224369
+The Prestige,1933,R,Romance,169,7.4,2547624
+The Green Mile,2014,PG,Sci-Fi,151,7.5,776385
+Mad Max: Fury Road,2004,PG,Thriller,129,6.9,1904514
+The Departed,1906,NR,Drama,140,7.5,2297167
+The Lion King,1967,R,Animation,156,7.1,1076419
+Back to the Future,1957,NR,Romance,143,7.1,1712982
+12 Angry Men,2016,G,Documentary,129,7.1,1006840
+The Intouchables,2013,R,Action,0,4.4,981489
+The Grand Budapest Hotel,2008,PG-13,Fantasy,0,6.7,365208
+The Shape of Water,1974,G,Documentary,191,7.4,2325149
+The Pursuit of Happyness,1928,G,Action,141,6.9,2651786
+A Beautiful Mind,2019,PG-13,Comedy,152,6.3,219356
+Jurassic Park,1935,G,Adventure,0,5,2995353
+Avatar,1988,R,Drama,0,5,1675255
+Star Wars: Episode IV - A New Hope,1920,NR,Documentary,143,5,484600
+Harry Potter and the Sorcerer's Stone,2020,G,Action,142,6.2,1495318
+The Avengers,1935,R,Sci-Fi,134,7.2,1908151
+The Social Network,1909,PG,Adventure,0,6.7,2917167
+Coco,2000,R,Action,150,6.7,2274284
+Inside Out,1972,NR,Horror,145,6.7,2357761
+Zootopia,1923,R,Comedy,151,6.7,646231
+Frozen,1963,PG-13,Thriller,157,7.1,769822
+The Incredibles,1998,NR,Documentary,145,7.7,2786202
+Guardians of the Galaxy,1948,PG,Fantasy,134,6.9,2322936
+Spider-Man: Homecoming,1998,PG-13,Comedy,161,5.8,14925
+Deadpool,2011,R,Adventure,118,6.6,1131760
+Interstellar,1935,NR,Horror,0,3.1,1649379
+The Notebook,1981,PG,Drama,0,6.2,2296482
+Gladiator,2012,PG-13,Sci-Fi,107,7.2,2757867
+The Wizard of Oz,2002,PG,Fantasy,132,6.7,1356789
+The Breakfast Club,1995,R,Documentary,164,7,749695
+Finding Nemo,1923,PG,Fantasy,0,5.9,2938055
+The Fault in Our Stars,1922,G,Comedy,158,6.8,2392001
+The Great Gatsby,1961,PG-13,Adventure,111,7.4,2272133
+Eternal Sunshine of the Spotless Mind,1995,PG,Drama,175,7.6,2316830
+Bridget Jones's Diary,1936,R,Animation,0,5.3,2225653
+The Devil Wears Prada,1911,R,Horror,0,7.2,1164937
+La La Land,2012,PG,Documentary,138,5.6,1233387
+Get Out,1954,R,Animation,181,7.5,2305044
+Her,1912,NR,Sci-Fi,124,6,611561
+The King's Speech,1922,NR,Drama,0,6.9,50818
+The Shape of Water,1988,NR,Drama,146,6.3,2249119
+Moonlight,1998,G,Horror,165,7.1,2451603
+Spotlight,2004,PG,Romance,160,5.3,1242057
+The Revenant,1929,G,Animation,152,5.5,1497116
+The Shawshank Redemption,1916,R,Action,130,3.6,1377640
+The Godfather,2012,G,Fantasy,140,7.2,2543923
+The Dark Knight,1961,R,Documentary,108,4.8,118642
+Pulp Fiction,1983,R,Romance,0,3.8,2906273
+The Lord of the Rings: The Return of the King,2011,PG-13,Action,125,6.5,195428
+Forrest Gump,1988,NR,Adventure,160,3.9,401468
+Inception,1985,R,Documentary,135,5,817276
+Fight Club,1912,PG-13,Documentary,149,5.4,95687
+The Matrix,1958,NR,Horror,104,5.7,1547334
+Gladiator,1918,R,Adventure,170,7,1858373
+The Silence of the Lambs,1948,R,Fantasy,130,3,2387819
+Schindler's List,1999,G,Thriller,125,6,2611665
+Titanic,1911,G,Action,0,5.6,1190130
+Saving Private Ryan,1960,NR,Documentary,0,6.2,2209257
+Braveheart,2004,R,Romance,109,7.5,1679832
+Black Swan,1918,PG,Action,144,7.2,1885118
+Django Unchained,1975,G,Action,0,2,1794580
+The Usual Suspects,1908,NR,Horror,159,3.8,1442285
+Whiplash,1970,R,Documentary,151,6.3,2136919
+The Prestige,1927,R,Adventure,156,5.5,2650990
+The Green Mile,1977,PG,Animation,140,7,1572837
+Mad Max: Fury Road,1994,NR,Thriller,144,7.4,1182618
+The Departed,1951,R,Horror,105,3.3,1671179
+The Lion King,1982,G,Sci-Fi,144,6.7,95494
+Back to the Future,2021,PG,Documentary,150,6.6,1040016
+12 Angry Men,2010,NR,Horror,0,4,2997439
+The Intouchables,1915,PG,Fantasy,150,6.7,704537
+The Grand Budapest Hotel,2016,G,Thriller,138,6.7,716861
+The Shape of Water,1968,NR,Drama,130,5.2,553188
+The Pursuit of Happyness,1998,PG,Sci-Fi,139,7.3,2111278
+A Beautiful Mind,1911,PG-13,Comedy,126,5.4,341447
+Jurassic Park,1924,G,Horror,0,7.1,216651
+Avatar,1951,G,Action,145,7.3,2426357
+Star Wars: Episode IV - A New Hope,2022,G,Animation,135,4.1,1540856
+Harry Potter and the Sorcerer's Stone,1984,PG-13,Drama,0,5,2114130
+The Avengers,1999,PG-13,Horror,151,6.7,1311775
+The Social Network,1952,R,Horror,149,2.1,2172734
+Coco,1922,PG,Romance,120,4.6,605502
+Inside Out,1915,R,Romance,139,7.3,2535244
+Zootopia,1956,PG,Drama,120,6.5,1560155
+Frozen,1938,PG-13,Adventure,180,2.5,747520
+The Incredibles,2008,PG-13,Romance,139,3.7,1611589
+Guardians of the Galaxy,1952,R,Action,135,6.7,2495623
+Spider-Man: Homecoming,1941,NR,Sci-Fi,129,4.5,468163
+Deadpool,1957,R,Comedy,141,6.8,839812
+Interstellar,1938,PG,Thriller,0,4.8,770008
+The Notebook,1913,R,Comedy,126,8.3,2674773
+Gladiator,1994,G,Comedy,151,7.2,304603
+The Wizard of Oz,2021,PG,Thriller,0,5.6,2395459
+The Breakfast Club,1904,PG,Romance,139,7,1213619
+Finding Nemo,1934,NR,Drama,155,6.9,1769085
+The Fault in Our Stars,1986,PG-13,Thriller,107,7.5,1044654
+The Great Gatsby,1992,PG,Documentary,90,3.7,2378772
+Eternal Sunshine of the Spotless Mind,2006,PG-13,Fantasy,140,4.4,892008
+Bridget Jones's Diary,1974,R,Adventure,0,6.8,348737
+The Devil Wears Prada,1917,G,Sci-Fi,120,2.5,2821562
+La La Land,2010,NR,Animation,122,6,1546288
+Get Out,1975,PG-13,Romance,142,5.5,1449299
+Her,1908,PG,Adventure,140,1.6,1512185
+The King's Speech,1973,PG-13,Thriller,115,6.5,2764630
+The Shape of Water,1957,PG,Fantasy,169,2.5,181601
+Moonlight,2007,PG-13,Animation,142,5.2,68682
+Spotlight,1916,PG,Sci-Fi,116,4.8,2544544
+The Revenant,2001,R,Sci-Fi,145,5.6,1295129
+The Shawshank Redemption,1906,PG,Romance,157,5.3,1414780
+The Godfather,1945,PG,Thriller,0,6.7,659774
+The Dark Knight,1912,G,Adventure,139,5.2,1131606
+Pulp Fiction,1939,PG,Drama,125,6.4,1168936
+The Lord of the Rings: The Return of the King,1941,G,Adventure,134,7.3,2028217
+Forrest Gump,1908,NR,Adventure,0,5.6,659297
+Inception,1949,G,Sci-Fi,129,6.3,1004366
+Fight Club,1926,R,Drama,86,6.4,2791177
+The Matrix,2021,G,Drama,144,6.9,2564878
+Gladiator,1965,NR,Romance,117,6.5,1554473
+The Silence of the Lambs,1904,R,Animation,128,6.1,1162936
+Schindler's List,1928,PG-13,Horror,0,5.9,1312470
+Titanic,1936,PG-13,Comedy,115,7.1,589306
+Saving Private Ryan,1937,G,Comedy,153,3.2,1042960
+Braveheart,1982,G,Sci-Fi,134,6.5,1445819
+Black Swan,1907,NR,Horror,137,5.1,2233969
+Django Unchained,2011,NR,Animation,147,1.3,192803
+The Usual Suspects,2008,PG,Horror,135,6.5,1659848
+Whiplash,1964,NR,Romance,0,6.5,1942991
+The Prestige,1985,PG,Adventure,153,6.4,2912035
+The Green Mile,2015,R,Sci-Fi,144,6.6,2453039
+Mad Max: Fury Road,1916,G,Drama,147,3.2,857906
+The Departed,1970,R,Sci-Fi,174,4.4,1765472
+The Lion King,1988,NR,Comedy,147,7.2,799838
+Back to the Future,1944,R,Animation,127,4.4,1237065
+12 Angry Men,1903,R,Horror,133,5.5,902479
+The Intouchables,1935,R,Animation,145,4.7,1958979
+The Grand Budapest Hotel,1969,NR,Romance,144,1.2,1938165
+The Shape of Water,2023,R,Sci-Fi,145,5.4,1591189
+The Pursuit of Happyness,1930,PG,Thriller,153,3.9,2296908
+A Beautiful Mind,1918,NR,Sci-Fi,149,6.8,1975516
+Jurassic Park,1960,R,Drama,158,6.8,2114821
+Avatar,2007,NR,Sci-Fi,131,7.2,334154
+Star Wars: Episode IV - A New Hope,1953,PG-13,Fantasy,138,7.4,207836
+Harry Potter and the Sorcerer's Stone,1938,PG,Romance,154,7.2,1540866
+The Avengers,1990,R,Action,150,7.1,132915
+The Social Network,1973,PG-13,Romance,123,4,196681
+Coco,1989,PG-13,Horror,151,7.5,2672252
+Inside Out,1918,NR,Action,151,5.8,802491
+Zootopia,1938,PG-13,Horror,150,6.4,1396989
+Frozen,1966,PG,Horror,140,6.6,777150
+The Incredibles,1944,PG,Drama,138,7,2122547
+Guardians of the Galaxy,1912,G,Drama,152,7.2,1278283
+Spider-Man: Homecoming,2013,PG,Documentary,0,5.4,771469
+Deadpool,1991,PG-13,Adventure,140,3.3,1776984
+Interstellar,1957,PG,Comedy,155,6.6,2321991
+The Notebook,1919,NR,Adventure,194,7,1268458
+Gladiator,1991,G,Adventure,138,6.5,1676099
+The Wizard of Oz,1971,PG-13,Comedy,111,7.3,2090651
+The Breakfast Club,1960,G,Thriller,156,3.3,1660809
+Finding Nemo,2004,PG-13,Action,138,5.7,1291378
+The Fault in Our Stars,1938,NR,Animation,138,5.3,774456
+The Great Gatsby,1900,G,Adventure,158,6.7,2954233
+Eternal Sunshine of the Spotless Mind,1902,R,Documentary,136,1.1,893155
+Bridget Jones's Diary,1976,PG-13,Sci-Fi,100,7.2,527169
+The Devil Wears Prada,1991,R,Sci-Fi,122,5.9,2929497
+La La Land,1961,G,Horror,130,3.1,871217
+Get Out,2020,R,Comedy,147,7,2555405
+Her,1962,R,Horror,144,6.8,1897465
+The King's Speech,2023,G,Fantasy,0,6.1,2263567
+The Shape of Water,2012,NR,Fantasy,139,6.1,1504181
+Moonlight,1924,R,Documentary,174,7.1,471466
+Spotlight,1955,R,Animation,128,6.4,2070569
+The Revenant,1932,NR,Drama,125,6.6,1188304
+The Shawshank Redemption,1937,R,Drama,146,5.3,1316461
+The Godfather,2016,R,Comedy,146,4.2,147733
+The Dark Knight,1905,R,Comedy,0,5.7,815122
+Pulp Fiction,1957,PG,Adventure,150,5.8,294977
+The Lord of the Rings: The Return of the King,1943,NR,Fantasy,0,7,2724006
+Forrest Gump,1944,R,Adventure,123,6.3,1119816
+Inception,1931,NR,Drama,147,7.1,2728338
+Fight Club,1944,PG-13,Action,0,7,974645
+The Matrix,1960,PG-13,Action,0,5.7,2306456
+Gladiator,1946,R,Comedy,0,6.8,355734
+The Silence of the Lambs,1920,NR,Horror,154,6.9,1921620
+Schindler's List,1979,NR,Drama,110,4.6,2470950
+Titanic,2017,NR,Action,122,4.8,2766952
+Saving Private Ryan,1984,PG,Drama,113,2.9,2216259
+Braveheart,1974,PG-13,Romance,129,5.6,401176
+Black Swan,2023,NR,Sci-Fi,153,3.7,1071038
+Django Unchained,2000,NR,Fantasy,0,6.1,1043423
+The Usual Suspects,1935,PG,Adventure,140,4.9,1852829
+Whiplash,1998,PG,Drama,122,4.6,2517626
+The Prestige,1918,NR,Sci-Fi,126,7.2,92889
+The Green Mile,1919,G,Romance,151,6.6,88952
+Mad Max: Fury Road,1956,NR,Adventure,142,1.7,717884
+The Departed,1917,NR,Drama,125,4.2,415331
+The Lion King,1946,PG,Comedy,0,5.5,904498
+Back to the Future,2004,PG,Sci-Fi,0,6.2,2798945
+12 Angry Men,1948,NR,Adventure,140,1.6,221576
+The Intouchables,1913,NR,Drama,147,6.8,743681
+The Grand Budapest Hotel,1914,NR,Sci-Fi,136,6.3,2595301
+The Shape of Water,1930,PG,Romance,0,7.1,865796
+The Pursuit of Happyness,1900,NR,Drama,134,6.6,2953661
+A Beautiful Mind,2016,NR,Drama,155,5,2399940
+Jurassic Park,1953,R,Drama,0,5.2,2421939
+Avatar,2017,G,Documentary,163,7.2,254084
+Star Wars: Episode IV - A New Hope,1902,PG-13,Animation,139,5.4,129466
+Harry Potter and the Sorcerer's Stone,1915,G,Documentary,130,4.2,2111740
+The Avengers,1986,R,Comedy,149,7.4,2240604
+The Social Network,1956,PG-13,Romance,132,5.7,1594575
+Coco,1974,NR,Documentary,134,5.7,660457
+Inside Out,1911,R,Adventure,0,7.3,1951356
+Zootopia,1973,NR,Animation,0,3.5,1732329
+Frozen,1995,PG,Horror,0,7.2,1857084
+The Incredibles,1915,R,Animation,0,7.4,1394994
+Guardians of the Galaxy,1971,PG,Fantasy,154,4.8,319753
+Spider-Man: Homecoming,2001,R,Fantasy,116,5.3,1546557
+Deadpool,1975,R,Drama,166,5.8,2890628
+Interstellar,1923,PG,Animation,0,5.8,774597
+The Notebook,1927,PG-13,Horror,160,6.5,55486
+Gladiator,2016,G,Animation,123,7.2,734647
+The Wizard of Oz,1907,NR,Comedy,156,5.4,29882
+The Breakfast Club,2021,R,Comedy,144,5.3,2675518
+Finding Nemo,1991,NR,Horror,179,7.3,2942318
+The Fault in Our Stars,1935,PG,Animation,0,4.3,1287256
+The Great Gatsby,1989,NR,Sci-Fi,0,5.8,1681594
+Eternal Sunshine of the Spotless Mind,1907,PG,Comedy,144,7.1,174898
+Bridget Jones's Diary,1957,NR,Comedy,0,7.2,1398705
+The Devil Wears Prada,1959,G,Action,143,5,2403324
+La La Land,1949,G,Animation,142,5.4,2017411
+Get Out,1927,G,Comedy,148,6.9,2610023
+Her,1991,G,Documentary,141,5.3,623226
+The King's Speech,2000,G,Romance,140,4.6,2739759
+The Shape of Water,1940,G,Animation,130,5.9,556831
+Moonlight,1999,PG,Fantasy,175,2.9,648567
+Spotlight,1963,R,Action,134,7.1,2126514
+The Revenant,1926,NR,Comedy,176,7,2517683
+The Shawshank Redemption,2017,G,Action,130,5.3,2255970
+The Godfather,1962,PG,Fantasy,158,5.8,403273
+The Dark Knight,1916,PG,Horror,0,6.7,829347
+Pulp Fiction,1972,PG,Horror,146,4.7,938565
+The Lord of the Rings: The Return of the King,1932,R,Animation,126,5.6,689517
+Forrest Gump,2016,NR,Fantasy,138,4.5,373519
+Inception,1983,R,Thriller,140,7.4,2568210
+Fight Club,1976,PG-13,Thriller,143,5.8,2917601
+The Matrix,1991,PG,Animation,144,3.5,843224
+Gladiator,2011,PG-13,Drama,127,4.6,1276784
+The Silence of the Lambs,1928,G,Action,126,6.1,2030888
+Schindler's List,1912,G,Action,138,6,1037904
+Titanic,1945,R,Horror,160,6.2,1439918
+Saving Private Ryan,1934,NR,Thriller,155,5.2,1852637
+Braveheart,1905,PG-13,Documentary,139,6.8,2194102
+Black Swan,1981,NR,Adventure,0,6.8,174942
+Django Unchained,2014,R,Comedy,142,3.7,2867042
+The Usual Suspects,1968,G,Comedy,118,6.9,1583452
+Whiplash,1946,NR,Comedy,180,4.9,1966522
+The Prestige,1924,NR,Horror,137,6.3,891712
+The Green Mile,1965,G,Fantasy,149,7,2593347
+Mad Max: Fury Road,1909,PG-13,Documentary,153,6.7,2043419
+The Departed,1955,G,Sci-Fi,145,5.4,2789657
+The Lion King,1929,NR,Thriller,60,1.4,272743
+Back to the Future,2013,PG-13,Documentary,134,6.4,334738
+12 Angry Men,2022,PG-13,Thriller,149,6.6,2573110
+The Intouchables,2008,G,Documentary,139,6.3,732790
+The Grand Budapest Hotel,1904,NR,Adventure,0,5.4,1706875
+The Shape of Water,2018,R,Documentary,138,1,2350008
+The Pursuit of Happyness,2019,NR,Documentary,128,5,284293
+A Beautiful Mind,1932,PG,Documentary,150,5.9,2819079
+Jurassic Park,2017,R,Action,165,7,197170
+Avatar,1964,PG-13,Drama,142,6.8,1419754
+Star Wars: Episode IV - A New Hope,1917,R,Animation,0,6.9,1229140
+Harry Potter and the Sorcerer's Stone,1995,PG-13,Action,142,4.3,179992
+The Avengers,2010,PG-13,Fantasy,0,6.7,571054
+The Social Network,1948,R,Animation,0,3.4,2574584
+Coco,1910,PG-13,Thriller,145,7,2708562
+Inside Out,1984,PG-13,Fantasy,143,6.9,795740
+Zootopia,1925,PG,Animation,147,5.1,2942836
+Frozen,1962,NR,Adventure,153,4.7,2565513
+The Incredibles,1988,NR,Adventure,126,5.5,447095
+Guardians of the Galaxy,1985,PG,Romance,128,4.3,2630160
+Spider-Man: Homecoming,1958,R,Sci-Fi,150,6.3,2485500
+Deadpool,1926,G,Adventure,0,6.4,2701433
+Interstellar,1948,G,Thriller,0,4.8,985979
+The Notebook,1976,G,Drama,161,5.7,2406409
+Gladiator,1932,PG,Comedy,143,5.9,835358
+The Wizard of Oz,1997,PG,Romance,0,6.9,1479995
+The Breakfast Club,2004,PG-13,Comedy,122,6.9,1792837
+Finding Nemo,1998,G,Documentary,160,4,1971472
+The Fault in Our Stars,1900,R,Sci-Fi,129,3.8,204580
+The Great Gatsby,1920,R,Animation,0,4.3,574673
+Eternal Sunshine of the Spotless Mind,2011,G,Horror,141,4.1,1079229
+Bridget Jones's Diary,1954,G,Adventure,0,3.3,1140441
+The Devil Wears Prada,1905,G,Drama,0,5.3,650101
+La La Land,1991,PG,Sci-Fi,144,4.9,1194447
+Get Out,1980,PG,Comedy,0,7,2345687
+Her,1968,PG,Romance,151,5.9,1587916
+The King's Speech,1994,NR,Adventure,143,7.9,2234268
+The Shape of Water,1904,R,Thriller,0,5.4,2248095
+Moonlight,2001,R,Adventure,0,8,220375
+Spotlight,1902,PG-13,Romance,0,5.8,2603087
+The Revenant,1952,PG,Romance,0,4.9,1986314
+The Shawshank Redemption,1922,NR,Horror,129,7.5,767522
+The Godfather,2000,NR,Adventure,144,7.7,1005344
+The Dark Knight,1952,R,Adventure,154,6.2,1828881
+Pulp Fiction,1936,PG,Documentary,0,4.8,2442404
+The Lord of the Rings: The Return of the King,1973,PG-13,Horror,0,5.7,1283596
+Forrest Gump,1973,PG,Fantasy,140,8.1,49892
+Inception,1982,G,Fantasy,161,7.5,2278745
+Fight Club,1916,PG,Documentary,144,5.6,877933
+The Matrix,1984,G,Animation,129,6.9,2836432
+Gladiator,1977,G,Fantasy,140,7,345535
+The Silence of the Lambs,1972,PG-13,Documentary,117,7.6,2377216
+Schindler's List,2009,R,Action,140,8,1865993
+Titanic,1900,PG,Adventure,147,7.3,1207935
+Saving Private Ryan,1950,G,Documentary,141,7.5,783059
+Braveheart,1944,PG,Drama,127,6.7,2222854
+Black Swan,1976,R,Adventure,168,5,73527
+Django Unchained,1903,R,Action,90,8.4,915108
+The Usual Suspects,1961,NR,Action,0,6.7,2847132
+Whiplash,1964,R,Comedy,137,6.7,828667
+The Prestige,2012,PG-13,Adventure,0,7.8,683019
+The Green Mile,2003,G,Sci-Fi,150,5.8,2384272
+Mad Max: Fury Road,1931,NR,Action,165,7.4,2966227
+The Departed,1933,PG-13,Drama,119,7.4,2820377
+The Lion King,1991,PG,Horror,115,7.4,1418351
+Back to the Future,1994,G,Animation,0,7.4,723666
+12 Angry Men,1971,R,Comedy,141,8.1,594670
+The Intouchables,1938,G,Horror,126,6.4,803083
+The Grand Budapest Hotel,1925,PG,Comedy,134,5.9,180116
+The Shape of Water,2021,NR,Drama,93,7.5,14633
+The Pursuit of Happyness,1933,NR,Romance,140,6,79164
+A Beautiful Mind,1953,NR,Adventure,132,7.3,787001
+Jurassic Park,2017,R,Documentary,125,5.4,2550268
+Avatar,1902,PG-13,Thriller,128,6.8,853941
+Star Wars: Episode IV - A New Hope,2022,PG-13,Sci-Fi,131,8.8,123425
+Harry Potter and the Sorcerer's Stone,1949,G,Horror,122,7.7,774508
+The Avengers,1911,R,Adventure,0,7.1,1438242
+The Social Network,1964,NR,Sci-Fi,0,8.5,295182
+Coco,1953,NR,Romance,176,8,1228736
+Inside Out,2007,PG,Thriller,0,5.4,1252825
+Zootopia,1904,PG,Sci-Fi,0,7.3,2302690
+Frozen,1993,NR,Sci-Fi,144,6.3,2562584
+The Incredibles,1993,NR,Horror,0,7.6,722153
+Guardians of the Galaxy,2022,R,Fantasy,130,8.4,1994837
+Spider-Man: Homecoming,1956,PG-13,Thriller,0,7.2,2298618
+Deadpool,1916,PG,Adventure,187,7.9,2569395
+Interstellar,2011,PG-13,Romance,167,7.9,2994324
+The Notebook,1946,R,Thriller,130,8.3,1684038
+Gladiator,1922,NR,Drama,110,5.8,311416
+The Wizard of Oz,1978,PG-13,Fantasy,147,8.2,137980
+The Breakfast Club,2000,NR,Drama,134,6.9,2501212
+Finding Nemo,1984,NR,Romance,0,7.6,2935039
+The Fault in Our Stars,1913,G,Horror,142,6.9,1020669
+The Great Gatsby,1965,PG-13,Horror,160,5.3,1641311
+Eternal Sunshine of the Spotless Mind,1974,PG-13,Romance,146,5.5,729887
+Bridget Jones's Diary,1950,NR,Comedy,157,5.8,1387828
+The Devil Wears Prada,2002,R,Romance,156,7.7,2533434
+La La Land,1937,G,Fantasy,164,7.7,226301
+Get Out,1963,NR,Action,133,7.9,824765
+Her,2023,PG,Horror,0,7.9,907651
+The King's Speech,1997,PG,Animation,0,7.4,1393749
+The Shape of Water,1937,G,Fantasy,155,7.7,1350417
+Moonlight,1949,R,Documentary,153,6.7,1852642
+Spotlight,1997,NR,Fantasy,144,7,911952
+The Revenant,1981,PG-13,Fantasy,144,6.3,2508401
+The Shawshank Redemption,1929,G,Sci-Fi,136,8,990391
+The Godfather,1978,R,Fantasy,130,5.8,55063
+The Dark Knight,1990,PG-13,Horror,151,5.5,2640780
+Pulp Fiction,1950,PG,Action,0,7.5,587069
+The Lord of the Rings: The Return of the King,1962,PG,Action,188,8.1,2004676
+Forrest Gump,1997,PG-13,Fantasy,147,6.3,2315138
+Inception,1951,G,Documentary,163,7.5,1355044
+Fight Club,2020,PG,Drama,131,5.1,221668
+The Matrix,1937,NR,Horror,126,7.7,2391938
+Gladiator,1996,PG-13,Horror,120,7,515518
+The Silence of the Lambs,1987,PG-13,Documentary,124,7.8,549666
+Schindler's List,1978,PG,Thriller,127,6.6,2402171
+Titanic,2023,G,Documentary,135,7.5,1166747
+Saving Private Ryan,1929,NR,Documentary,159,7.2,1410781
+Braveheart,2018,G,Adventure,146,7.2,588665
+Black Swan,2005,R,Comedy,0,7.2,2881779
+Django Unchained,1950,R,Documentary,180,4.9,578979
+The Usual Suspects,1980,PG,Comedy,117,7.3,2059417
+Whiplash,1904,PG,Drama,0,6.5,2408359
+The Prestige,1928,PG,Comedy,140,6.8,616070
+The Green Mile,1903,R,Thriller,0,7.9,1832760
+Mad Max: Fury Road,1909,G,Documentary,187,7.9,2175495
+The Departed,1955,G,Documentary,167,4.3,2442367
+The Lion King,1916,PG,Romance,145,7.7,922996
+Back to the Future,1973,NR,Comedy,0,7.7,2742839
+12 Angry Men,1916,G,Horror,0,5.1,2652797
+The Intouchables,2023,R,Documentary,180,6.2,1867322
+The Grand Budapest Hotel,1983,PG-13,Romance,122,5.6,2539065
+The Shape of Water,1987,PG-13,Comedy,91,8,594571
+The Pursuit of Happyness,1968,PG-13,Horror,168,8.2,2156719
+A Beautiful Mind,1933,NR,Horror,145,7,2406302
+Jurassic Park,1905,PG,Fantasy,113,7.4,2026091
+Avatar,1952,R,Action,137,6.2,2334930
+Star Wars: Episode IV - A New Hope,1965,NR,Drama,0,5.8,1190334
+Harry Potter and the Sorcerer's Stone,1976,R,Thriller,153,7.5,1329611
+The Avengers,2006,R,Sci-Fi,0,7.4,2723172
+The Social Network,1942,PG,Documentary,0,7.2,716079
+Coco,2011,PG-13,Adventure,150,8,1012968
+Inside Out,1974,PG,Comedy,0,7.7,954227
+Zootopia,2014,NR,Comedy,0,7.7,2913461
+Frozen,2010,NR,Romance,140,4.4,249465
+The Incredibles,2020,NR,Romance,135,5.7,2321741
+Guardians of the Galaxy,1922,PG,Adventure,130,5.2,2635466
+Spider-Man: Homecoming,1954,R,Comedy,160,5.8,1331142
+Deadpool,1979,R,Animation,150,5.2,295625
+Interstellar,1994,G,Thriller,0,7.3,633672
+The Notebook,1974,NR,Comedy,0,5.6,58031
+Gladiator,2017,R,Documentary,150,6.4,1974601
+The Wizard of Oz,1915,G,Action,0,7.3,1918135
+The Breakfast Club,1907,R,Adventure,0,7.1,2451550
+Finding Nemo,1903,NR,Documentary,130,8.1,2081552
+The Fault in Our Stars,2003,PG-13,Animation,158,7,2689672
+The Great Gatsby,1903,NR,Thriller,182,7.7,1715948
+Eternal Sunshine of the Spotless Mind,1955,PG,Comedy,0,7.4,342368
+Bridget Jones's Diary,1924,R,Sci-Fi,190,7.7,2513825
+The Devil Wears Prada,1966,R,Fantasy,135,6.1,2560940
+La La Land,1995,PG,Documentary,127,6.9,760791
+Get Out,1966,PG,Action,134,5.7,1864968
+Her,1926,PG-13,Sci-Fi,0,5.6,2184847
+The King's Speech,1992,R,Romance,144,7.9,1178642
+The Shape of Water,1931,R,Documentary,0,7.1,1187558
+Moonlight,1949,PG-13,Romance,152,6.4,2650250
+Spotlight,1960,G,Comedy,144,7.6,2641532
+The Revenant,2021,PG-13,Romance,141,7.8,1630969
+The Shawshank Redemption,1950,NR,Action,148,6.1,1734441
+The Godfather,1918,R,Thriller,107,5.5,1252876
+The Dark Knight,1920,PG,Horror,146,5,290699
+Pulp Fiction,1904,NR,Drama,0,6,2693374
+The Lord of the Rings: The Return of the King,1981,R,Adventure,143,5.7,2960841
+Forrest Gump,1991,PG-13,Thriller,0,7.8,1852947
+Inception,1941,NR,Horror,0,7.2,1532579
+Fight Club,1960,R,Animation,138,7.5,2592859
+The Matrix,1921,G,Documentary,0,6.5,2252375
+Gladiator,1920,G,Documentary,130,7.4,1572900
+The Silence of the Lambs,1969,PG,Action,135,5.8,1918715
+Schindler's List,1900,R,Documentary,0,6.9,2660491
+Titanic,1904,G,Sci-Fi,135,7.3,491513
+Saving Private Ryan,2004,PG-13,Horror,140,7.7,2177890
+Braveheart,1911,R,Action,130,8.2,335740
+Black Swan,1989,PG-13,Fantasy,0,4.9,130613
+Django Unchained,1945,PG-13,Sci-Fi,0,6.7,73601
+The Usual Suspects,1933,G,Documentary,0,6.7,1740584
+Whiplash,1948,R,Romance,128,5.9,812902
+The Prestige,1977,NR,Romance,0,8.5,1056904
+The Green Mile,1989,G,Sci-Fi,143,5.2,137405
+Mad Max: Fury Road,1944,G,Animation,135,4.9,2872959
+The Departed,1926,R,Documentary,130,7.5,121173
+The Lion King,1972,R,Animation,141,6.9,46638
+Back to the Future,1925,PG-13,Animation,146,6.4,2894852
+12 Angry Men,2020,R,Horror,125,7.6,1250251
+The Intouchables,1946,PG-13,Adventure,126,7.5,1162496
+The Grand Budapest Hotel,2020,G,Horror,0,7.3,2507413
+The Shape of Water,1985,PG,Comedy,125,7.2,2105039
+The Pursuit of Happyness,2010,NR,Drama,85,6.5,2064798
+A Beautiful Mind,1955,G,Sci-Fi,0,6.9,2850418
+Jurassic Park,1993,R,Thriller,0,3.9,1073494
+Avatar,2006,NR,Drama,0,5,821929
+Star Wars: Episode IV - A New Hope,1962,PG,Fantasy,0,6.1,2452858
+Harry Potter and the Sorcerer's Stone,1947,PG,Horror,135,7.5,716369
+The Avengers,1960,PG-13,Horror,161,6.9,1322649
+The Social Network,1980,NR,Action,109,4.8,2617489
+Coco,1925,PG-13,Drama,0,6.8,2027842
+Inside Out,1935,G,Action,133,7.1,1017977
+Zootopia,1900,NR,Thriller,0,6.9,734459
+Frozen,1907,G,Action,159,4.9,2387842
+The Incredibles,2012,PG-13,Drama,117,3.9,2306648
+Guardians of the Galaxy,1998,NR,Sci-Fi,167,7.5,2789850
+Spider-Man: Homecoming,1951,PG-13,Documentary,130,5.4,1476075
+Deadpool,1978,NR,Documentary,142,5.5,2703934
+Interstellar,1946,PG-13,Fantasy,128,5.6,308710
+The Notebook,1955,PG,Horror,107,7.4,347608
+Gladiator,1985,PG-13,Thriller,130,6.6,1176855
+The Wizard of Oz,1913,PG,Horror,125,6.2,81991
+The Breakfast Club,1989,PG-13,Comedy,153,6.3,2451976
+Finding Nemo,1927,NR,Fantasy,168,7.3,2352221
+The Fault in Our Stars,1986,NR,Adventure,137,6.2,485714
+The Great Gatsby,1977,NR,Action,0,6,2780596
+Eternal Sunshine of the Spotless Mind,1987,R,Romance,0,3.7,676503
+Bridget Jones's Diary,1901,G,Drama,0,6.1,122772
+The Devil Wears Prada,2008,NR,Horror,154,7.7,1277991
+La La Land,1925,PG,Action,173,7.7,2762734
+Get Out,1913,NR,Thriller,0,5.4,977469
+Her,1958,R,Horror,141,5.4,1561853
+The King's Speech,1955,PG,Adventure,100,7.9,1307589
+The Shape of Water,2014,R,Documentary,0,6.3,1465741
+Moonlight,1906,PG,Fantasy,149,5.3,706412
+Spotlight,1902,PG-13,Fantasy,0,7.6,2801329
+The Revenant,2010,G,Documentary,204,7.9,2331134
+The Shawshank Redemption,1922,G,Horror,132,7.9,1787139
+The Godfather,2009,R,Thriller,0,8.1,2302535
+The Dark Knight,2006,G,Fantasy,0,8.5,291799
+Pulp Fiction,2010,R,Fantasy,140,6.2,188874
+The Lord of the Rings: The Return of the King,2023,R,Adventure,0,8,1620496
+Forrest Gump,2008,R,Drama,0,6.5,2308436
+Inception,1917,G,Thriller,130,6.2,2533593
+Fight Club,2021,R,Thriller,139,6.6,1239658
+The Matrix,1937,G,Sci-Fi,108,7.1,2310959
+Gladiator,1998,R,Documentary,101,4.4,473818
+The Silence of the Lambs,2014,NR,Sci-Fi,136,8.2,1329615
+Schindler's List,1914,R,Documentary,87,3.6,1284468
+Titanic,1963,PG,Fantasy,133,5.6,242718
+Saving Private Ryan,1988,R,Documentary,139,6,717167
+Braveheart,2018,PG-13,Romance,99,5,2644526
+Black Swan,2000,R,Sci-Fi,0,4.5,2572395
+Django Unchained,1927,PG,Fantasy,153,7.4,369478
+The Usual Suspects,1973,PG,Animation,126,6.7,1724833
+Whiplash,1938,G,Comedy,0,6.3,587371
+The Prestige,1956,NR,Comedy,169,7,1670415
+The Green Mile,1916,R,Thriller,152,8.2,1913514
+Mad Max: Fury Road,2002,G,Romance,142,5.8,662643
+The Departed,1985,NR,Adventure,140,5.6,1916489
+The Lion King,1989,R,Drama,0,6.2,2359551
+Back to the Future,1943,PG-13,Sci-Fi,129,6,207627
+12 Angry Men,1924,R,Animation,0,6.8,1588351
+The Intouchables,1916,PG,Fantasy,0,6.4,1592210
+The Grand Budapest Hotel,1912,PG,Romance,95,5.6,2918634
+The Shape of Water,1983,PG-13,Thriller,153,7.2,2368040
+The Pursuit of Happyness,1924,G,Sci-Fi,88,4.5,2515124
+A Beautiful Mind,1967,NR,Romance,140,6.8,1991226
+Jurassic Park,1909,R,Sci-Fi,135,5.7,1430360
+Avatar,1966,PG,Drama,0,6.5,2938616
+Star Wars: Episode IV - A New Hope,2004,G,Drama,146,7.6,829119
+Harry Potter and the Sorcerer's Stone,2008,PG-13,Adventure,0,5.3,2274327
+The Avengers,1917,PG,Comedy,0,5.7,1897871
+The Social Network,2010,PG-13,Documentary,0,7.5,2490959
+Coco,1999,R,Action,130,4.6,1054853
+Inside Out,2010,NR,Action,147,7.1,848292
+Zootopia,1985,PG,Sci-Fi,0,7.1,2230484
+Frozen,1933,PG,Adventure,0,7.2,1769819
+The Incredibles,2010,R,Action,147,4.9,286885
+Guardians of the Galaxy,1907,G,Documentary,144,5.7,381864
+Spider-Man: Homecoming,1939,NR,Thriller,0,5.9,2861904
+Deadpool,2012,PG,Action,0,7.7,782733
+Interstellar,2007,NR,Horror,133,4.5,2531910
+The Notebook,1982,PG,Fantasy,148,5.8,1535410
+Gladiator,1941,NR,Adventure,123,6.6,349760
+The Wizard of Oz,1940,PG-13,Thriller,0,8.2,2030812
+The Breakfast Club,2000,PG,Romance,0,8,2191667
+Finding Nemo,1905,NR,Thriller,0,7.5,1739549
+The Fault in Our Stars,1951,G,Comedy,145,7.3,1236664
+The Great Gatsby,1925,PG-13,Romance,116,7.5,1632974
+Eternal Sunshine of the Spotless Mind,1963,PG-13,Animation,134,6.4,219601
+Bridget Jones's Diary,1997,G,Fantasy,119,5,2830434
+The Devil Wears Prada,1958,NR,Fantasy,140,4.5,296177
+La La Land,1955,R,Fantasy,122,6.5,1880221
+Get Out,1958,G,Fantasy,0,7.2,12938
+Her,2008,NR,Sci-Fi,0,5.4,1179418
+The King's Speech,1969,G,Fantasy,0,6.7,994199
+The Shape of Water,2000,G,Documentary,0,7.2,1312994
+Moonlight,2020,PG,Fantasy,0,7.3,1919398
+Spotlight,1932,NR,Fantasy,0,6.1,2522183
+The Revenant,1952,R,Adventure,148,6.6,1198609
+The Shawshank Redemption,1921,PG,Sci-Fi,149,7.2,939479
+The Godfather,1920,G,Drama,152,4.5,1185622
+The Dark Knight,1969,G,Thriller,137,6.5,2435760
+Pulp Fiction,1969,G,Thriller,0,5.1,545501
+The Lord of the Rings: The Return of the King,2018,NR,Romance,0,5.4,1302619
+Forrest Gump,2011,NR,Adventure,136,6.6,1004735
+Inception,1903,PG,Horror,154,7.3,2012236
+Fight Club,1993,R,Thriller,0,8,1373464
+The Matrix,1974,PG,Action,0,8.1,2770283
+Gladiator,1961,PG-13,Horror,145,8.1,1511602
+The Silence of the Lambs,1961,G,Fantasy,125,5.6,821485
+Schindler's List,1993,G,Fantasy,0,5.6,2346118
+Titanic,1994,G,Sci-Fi,0,6.7,445292
+Saving Private Ryan,1923,PG,Horror,142,8.2,1078290
+Braveheart,1954,PG,Action,0,7.3,689746
+Black Swan,1908,G,Sci-Fi,0,6.8,317192
+Django Unchained,2018,PG,Documentary,131,8.4,355439
+The Usual Suspects,1902,NR,Romance,151,7.5,12026
+Whiplash,2014,NR,Horror,0,7.1,2203299
+The Prestige,1930,PG,Adventure,137,7.6,1681063
+The Green Mile,1939,G,Fantasy,158,8.3,2980858
+Mad Max: Fury Road,2000,PG,Fantasy,141,6.5,288988
+The Departed,1935,PG,Comedy,151,5.7,2449711
+The Lion King,1923,PG,Sci-Fi,127,5.7,54708
+Back to the Future,1994,PG-13,Drama,160,4.8,2554293
+12 Angry Men,1905,NR,Drama,0,6.7,1624438
+The Intouchables,1965,R,Sci-Fi,141,6.4,1396268
+The Grand Budapest Hotel,1983,R,Adventure,0,3.4,2509180
+The Shape of Water,1991,PG-13,Animation,0,7.1,1280985
+The Pursuit of Happyness,1974,PG,Sci-Fi,122,7.2,1637094
+A Beautiful Mind,1903,PG-13,Adventure,130,7.1,2007708
+Jurassic Park,1978,PG-13,Romance,198,4.9,1303027
+Avatar,1905,G,Fantasy,143,6.6,827013
+Star Wars: Episode IV - A New Hope,2017,NR,Action,141,5.9,439844
+Harry Potter and the Sorcerer's Stone,2012,R,Animation,0,8.3,1268276
+The Avengers,1993,PG,Horror,145,3.2,287249
+The Social Network,2019,R,Animation,130,6.7,2611691
+Coco,2001,R,Action,156,6.1,331301
+Inside Out,1950,NR,Comedy,0,6.8,1043840
+Zootopia,1961,R,Fantasy,0,7.6,1397955
+Frozen,1956,R,Drama,174,8.1,770802
+The Incredibles,1965,PG-13,Adventure,0,7.3,264491
+Guardians of the Galaxy,1978,NR,Sci-Fi,0,4.7,2847534
+Spider-Man: Homecoming,1974,G,Sci-Fi,139,7.3,148182
+Deadpool,1907,PG,Drama,152,6.2,2290394
+Interstellar,1925,R,Animation,0,8.2,707161
+The Notebook,1950,PG,Fantasy,137,7.9,455987
+Gladiator,1944,G,Thriller,0,7.2,124926
+The Wizard of Oz,1943,PG,Adventure,120,8.4,81147
+The Breakfast Club,1904,G,Documentary,0,5.8,1592063
+Finding Nemo,1969,PG-13,Romance,142,7.8,1927298
+The Fault in Our Stars,1925,R,Action,0,6.8,1478367
+The Great Gatsby,2017,G,Animation,0,6.2,2318020
+Eternal Sunshine of the Spotless Mind,1967,PG,Horror,141,6.7,2217939
+Bridget Jones's Diary,1918,R,Comedy,143,7.3,2211579
+The Devil Wears Prada,1983,PG-13,Sci-Fi,180,7.7,2245215
+La La Land,1996,R,Animation,135,6.5,2775065
+Get Out,1919,G,Comedy,152,7.2,611781
+Her,2012,PG-13,Action,72,6.5,1966714
+The King's Speech,1911,PG,Sci-Fi,0,7,488633
+The Shape of Water,1946,PG-13,Sci-Fi,0,3.8,2896355
+Moonlight,1900,PG-13,Thriller,154,5.7,2868274
+Spotlight,1989,NR,Documentary,113,7.1,2177028
+The Revenant,1913,PG-13,Animation,150,5.1,2589260
+The Shawshank Redemption,1963,PG-13,Fantasy,150,6.7,167071
+The Godfather,1937,R,Drama,0,8.2,1775823
+The Dark Knight,1936,PG,Drama,131,7.9,1894656
+Pulp Fiction,1910,R,Romance,0,7.3,455884
+The Lord of the Rings: The Return of the King,1999,R,Horror,110,5.3,1545140
+Forrest Gump,1976,G,Comedy,0,5.9,2435079
+Inception,2006,R,Animation,0,8.5,2665880
+Fight Club,1902,NR,Adventure,0,5.8,555943
+The Matrix,1932,NR,Horror,0,8.2,567327
+Gladiator,1905,G,Thriller,178,7.1,2414551
+The Silence of the Lambs,1949,PG,Sci-Fi,159,7.8,72219
+Schindler's List,2019,PG,Fantasy,160,5.2,2807501
+Titanic,1909,R,Animation,144,5.2,1846252
+Saving Private Ryan,1904,R,Documentary,138,6.5,2792063
+Braveheart,1922,R,Horror,0,6.5,718590
+Black Swan,1909,PG,Horror,0,6.6,366042
+Django Unchained,1943,PG-13,Fantasy,0,4.3,1339091
+The Usual Suspects,1901,NR,Romance,0,4.8,2257102
+Whiplash,1912,PG-13,Comedy,128,7.2,2264381
+The Prestige,1939,PG-13,Comedy,104,6.2,1054490
+The Green Mile,1901,PG,Horror,0,6.5,1337900
+Mad Max: Fury Road,1983,PG-13,Action,0,6.3,865048
+The Departed,1964,G,Horror,165,6.4,1276137
+The Lion King,1962,R,Horror,0,6.4,2716653
+Back to the Future,2000,G,Fantasy,0,4.7,2517728
+12 Angry Men,1972,NR,Sci-Fi,0,6.1,2659245
+The Intouchables,1916,R,Fantasy,0,5.8,2503821
+The Grand Budapest Hotel,1908,PG-13,Animation,0,6.5,1175175
+The Shape of Water,1974,NR,Horror,0,8.3,678063
+The Pursuit of Happyness,1914,R,Comedy,0,6.9,1238669
+A Beautiful Mind,1923,PG-13,Adventure,0,5.2,2191951
+Jurassic Park,1937,G,Comedy,0,8.6,622673
+Avatar,2018,R,Documentary,0,8.1,2857094
+Star Wars: Episode IV - A New Hope,1934,PG-13,Drama,110,6.1,2047152
+Harry Potter and the Sorcerer's Stone,1993,G,Documentary,0,4.2,2082174
+The Avengers,1994,NR,Romance,110,5.4,924914
+The Social Network,1948,NR,Thriller,155,4.6,605750
+Coco,1968,NR,Animation,0,4.5,179340
+Inside Out,1961,NR,Animation,143,4.3,2786760
+Zootopia,1959,PG,Romance,129,8.9,42039
+Frozen,2007,R,Adventure,129,8.2,2854414
+The Incredibles,1949,R,Thriller,144,7,1096376
+Guardians of the Galaxy,1977,PG,Sci-Fi,140,6.4,2400057
+Spider-Man: Homecoming,2016,PG-13,Horror,131,7.1,618914
+Deadpool,2019,PG-13,Thriller,138,7,2576471
+Interstellar,1974,NR,Adventure,113,7.8,2796175
+The Notebook,1908,G,Action,0,7.4,1167574
+Gladiator,1933,PG-13,Drama,137,7.4,241324
+The Wizard of Oz,1975,G,Thriller,0,4.3,509662
+The Breakfast Club,1998,R,Thriller,0,6.5,428583
+Finding Nemo,1934,G,Drama,0,4.9,1971893
+The Fault in Our Stars,1900,R,Horror,0,8.6,233229
+The Great Gatsby,1939,PG,Thriller,0,6.3,2091706
+Eternal Sunshine of the Spotless Mind,1963,PG,Drama,137,7.8,837876
+Bridget Jones's Diary,1921,NR,Drama,0,5.9,2158900
+The Devil Wears Prada,1959,PG-13,Drama,0,7.3,1089766
+La La Land,1963,NR,Fantasy,73,5.3,1088894
+Get Out,1992,R,Adventure,145,8.5,2789530
+Her,1971,NR,Fantasy,208,7.8,124078
+The King's Speech,1910,G,Action,109,5.4,39759
+The Shape of Water,2004,R,Documentary,226,2,802930
+Moonlight,2000,PG,Sci-Fi,79,2,2647429
+Spotlight,1913,PG-13,Fantasy,146,8.2,1729504
+The Revenant,1959,R,Fantasy,194,5.8,379179
+The Shawshank Redemption,1929,R,Documentary,196,5.3,2950161
+The Godfather,1934,G,Adventure,188,7.1,367375
+The Dark Knight,1984,PG-13,Documentary,213,8.7,1032203
+Pulp Fiction,1936,PG,Sci-Fi,225,6.7,2782611
+The Lord of the Rings: The Return of the King,1904,R,Romance,97,7.9,876332
+Forrest Gump,1982,R,Drama,103,7.9,2531007
+Inception,2022,G,Animation,145,4.2,891111
+Fight Club,1977,NR,Sci-Fi,103,3.5,2382778
+The Matrix,1925,PG,Action,133,8.2,1497053
+Gladiator,1961,PG-13,Horror,178,4.4,1028825
+The Silence of the Lambs,1903,R,Action,181,9.1,480533
+Schindler's List,1988,R,Drama,193,1.6,2913632
+Titanic,2008,PG,Sci-Fi,204,1.5,1443828
+Saving Private Ryan,1941,NR,Action,110,9.3,1608678
+Braveheart,1988,R,Action,97,6.8,715054
+Black Swan,1917,PG,Documentary,211,4.4,1458716
+Django Unchained,1939,G,Romance,110,7.8,391637
+The Usual Suspects,1971,NR,Romance,69,7.1,248827
+Whiplash,1938,PG-13,Sci-Fi,179,5.8,245256
+The Prestige,2003,R,Drama,208,1.9,2441239
+The Green Mile,1913,PG,Fantasy,129,8.3,2118670
+Mad Max: Fury Road,1931,G,Comedy,144,8.8,410275
+The Departed,1950,PG-13,Thriller,116,2.5,1829210
