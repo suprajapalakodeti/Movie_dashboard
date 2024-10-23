@@ -1,4 +1,5 @@
 Movie Dashboard Project 🎬
+
 Overview
 This project showcases a Movie Dashboard created using Power BI, based on data analysis done with SQL and Excel. The goal of this dashboard is to provide insights into various movie-related metrics, including movie ratings, genres, reviews, and certification trends over the years.
 
